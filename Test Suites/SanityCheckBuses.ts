@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>SanityCheckBuses</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>19306376-8d95-4da6-8957-6b4f34ebd5f5</testSuiteGuid>
+   <testCaseLink>
+      <guid>75372750-bb8c-437a-be90-0037e85374f0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Goibibo/GoibiboBus</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>9146137c-e33f-4d89-aebc-7a45476b7afc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/GoibiboBuses</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>9146137c-e33f-4d89-aebc-7a45476b7afc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sourcecity</value>
+         <variableId>6725f02c-5c36-45d4-a583-0a8ba490f974</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>9146137c-e33f-4d89-aebc-7a45476b7afc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>Destination</value>
+         <variableId>e3ec8912-6c83-4967-8377-31768af01bb5</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Goibibomultiplefiles</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>82323690-cb1f-480e-b743-65e98b1c91ba</testSuiteGuid>
+   <testCaseLink>
+      <guid>1bd45226-7653-4c98-bc81-f65c5be12449</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Goibibo/GoibiboCabs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bd3af522-97fe-4e8f-a0d1-29e3f05b2625</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Goibibocabcsv</testDataId>
+      </testDataLink>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d045b23d-b5b4-4e89-af62-7d27bdd99ad3</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Goibibocabs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d045b23d-b5b4-4e89-af62-7d27bdd99ad3</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sourcecity</value>
+         <variableId>450af6fe-41e2-4b94-86ee-725b52687280</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bd3af522-97fe-4e8f-a0d1-29e3f05b2625</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sourcecity,destination</value>
+         <variableId>41ed737b-80ce-48b4-8fa2-83d3c15001d2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>GoibiboCabswithexcel</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>db2f1ba5-6cef-46e2-b20b-b6bada01996d</testSuiteGuid>
+   <testCaseLink>
+      <guid>4e2c1831-58af-48e1-ade8-12feecfcd48f</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Goibibo/GoibiboCabs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>385e8a80-0205-4bda-825e-b6a59094a4d0</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Goibibocabs</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>385e8a80-0205-4bda-825e-b6a59094a4d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>sourcecity</value>
+         <variableId>450af6fe-41e2-4b94-86ee-725b52687280</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>385e8a80-0205-4bda-825e-b6a59094a4d0</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>destination</value>
+         <variableId>41ed737b-80ce-48b4-8fa2-83d3c15001d2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

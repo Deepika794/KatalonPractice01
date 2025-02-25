@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Whats new</name>
+   <tag></tag>
+   <elementGuidId>e03079f6-7a1f-49cc-b31c-e6ba1da87c1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/c-wiz/div[2]/div/div[2]/div[3]/section/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.jujzNd</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>section >> internal:role=link[name=&quot;What's new&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>34de6d26-e97a-4529-b30b-d4f41d0d5de4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jujzNd</value>
+      <webElementGuid>e793ef0c-496c-4b13-ae3f-5dd659a1e7e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://developers.google.com/speed/docs/insights/release_notes</value>
+      <webElementGuid>da500cec-ec68-4971-9308-0fe6a8220ba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>78f4951d-518e-403b-8e91-ad0fbcddb147</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>What's new</value>
+      <webElementGuid>fe3d02ca-a4a0-447f-9538-ad7066f2322f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/c-wiz[@class=&quot;SSPGKf&quot;]/div[@class=&quot;T4LgNb&quot;]/div[@class=&quot;kFwPee&quot;]/div[@class=&quot;ZVTDqc&quot;]/div[@class=&quot;AXosle C0pEce&quot;]/section[@class=&quot;MKYaac nysi8e&quot;]/div[1]/div[@class=&quot;MBb0be hnMhOc&quot;]/div[@class=&quot;oLYope&quot;]/a[@class=&quot;jujzNd&quot;]</value>
+      <webElementGuid>f14a26f2-49cc-4d85-903a-1fa9879080a0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/c-wiz/div[2]/div/div[2]/div[3]/section/div/div/div/a</value>
+      <webElementGuid>aa7620ee-eaf0-4c64-b299-bfbdf1a5f008</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Make your web pages fast on all devices'])[1]/following::a[1]</value>
+      <webElementGuid>4b2b9b44-8946-4192-b981-53967cc32c96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Analyze'])[1]/following::a[1]</value>
+      <webElementGuid>40f4bc67-014b-4eee-a632-e912a92f8d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Documentation'])[1]/preceding::a[1]</value>
+      <webElementGuid>cf1a19ba-ad7a-40bd-95a8-2c4a12f07ac1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn about Web Performance'])[1]/preceding::a[2]</value>
+      <webElementGuid>32c5d343-f3f1-4589-a550-ac2e0d316e69</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://developers.google.com/speed/docs/insights/release_notes')]</value>
+      <webElementGuid>bc4dcdc3-d4fb-4938-b57e-e50cc71bd28e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/a</value>
+      <webElementGuid>b918cf51-bbba-4573-83f4-e96191a3d7f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://developers.google.com/speed/docs/insights/release_notes' and (text() = concat(&quot;What&quot; , &quot;'&quot; , &quot;s new&quot;) or . = concat(&quot;What&quot; , &quot;'&quot; , &quot;s new&quot;))]</value>
+      <webElementGuid>e5886b4c-4e73-4b56-b6ce-3047c0e13137</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

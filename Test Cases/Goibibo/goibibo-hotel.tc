@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>goibibo-hotel</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>05890dbf-4047-47c2-a283-28314fb23f9c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>caf6f6ef-9471-4d87-8d66-63f001097a56</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>633e9e0c-4520-42dd-9ccf-f874d42dfc87</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Goa'</defaultValue>
+      <description></description>
+      <id>caf6f6ef-9471-4d87-8d66-63f001097a56</id>
+      <masked>false</masked>
+      <name>city</name>
+   </variable>
+   <variable>
+      <defaultValue>'Popular Locations in Goa'</defaultValue>
+      <description></description>
+      <id>633e9e0c-4520-42dd-9ccf-f874d42dfc87</id>
+      <masked>false</masked>
+      <name>expectedText</name>
+   </variable>
+</TestCaseEntity>

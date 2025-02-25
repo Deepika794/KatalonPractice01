@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Goibibocabswithcsv</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>2a50fe62-704f-4285-8663-7b8881e15c30</testSuiteGuid>
+   <testCaseLink>
+      <guid>cad40e8b-3653-4d16-b0d5-20f6d4bc18a7</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Goibibo/GoibiboCabs</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6bad3dde-5ce6-40b9-8a40-b8cca5b4de5b</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Goibibocabcsv</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>450af6fe-41e2-4b94-86ee-725b52687280</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>41ed737b-80ce-48b4-8fa2-83d3c15001d2</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

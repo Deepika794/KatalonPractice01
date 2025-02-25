@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Girls_common-radioIndicator</name>
+   <tag></tag>
+   <elementGuidId>e66738b8-a55e-4f17-af4f-5672ab62dcef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div[2]/ul/li[2]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > label.common-customRadio.gender-label > div.common-radioIndicator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Girls&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>af55d198-9283-41c4-9569-93434c46c464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common-radioIndicator</value>
+      <webElementGuid>fd1f15e0-8ce1-4a90-b212-51877b4af6b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[1]/main[@class=&quot;search-base&quot;]/div[@class=&quot;row-base&quot;]/div[@class=&quot;search-leftContainer column-base&quot;]/section[1]/div[@class=&quot;condition-render-verticalFilters condition-render-boundary-top&quot;]/div[@class=&quot;vertical-filters-filters&quot;]/ul[@class=&quot;gender-list&quot;]/li[2]/label[@class=&quot;common-customRadio gender-label&quot;]/div[@class=&quot;common-radioIndicator&quot;]</value>
+      <webElementGuid>d4dbdd64-2019-4315-b052-6f5dab98c1de</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div[2]/ul/li[2]/label/div</value>
+      <webElementGuid>28bebdd1-44b7-43eb-afe3-ce81132dcf54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label/div</value>
+      <webElementGuid>c50372f8-2fec-42e0-8b23-e9b71fd2c907</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

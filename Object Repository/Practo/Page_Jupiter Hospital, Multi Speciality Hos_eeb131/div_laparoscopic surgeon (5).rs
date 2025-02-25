@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_laparoscopic surgeon (5)</name>
+   <tag></tag>
+   <elementGuidId>fe6f1e3a-b017-4944-afb4-25e2dbd69d73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-1953257']/div/div/div/div/div[3]/div/div[10]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;laparoscopic surgeon (5)&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>aa55200e-bc88-48c2-82bb-d8db7a250f6b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>bubbles__item u-t-capitalize </value>
+      <webElementGuid>5d91b7fe-bc78-448e-9988-cc50be3c2f7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-id</name>
+      <type>Main</type>
+      <value>specialities_select_item</value>
+      <webElementGuid>2bd8ea2c-6db9-466e-886c-bf7b4ffb083a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>laparoscopic surgeon (5)</value>
+      <webElementGuid>f2097d99-7ba3-4af4-b048-07ef959c0211</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-1953257&quot;)/div[@class=&quot;c-profile--sections&quot;]/div[1]/div[1]/div[@class=&quot;pure-g u-cushion-medium u-border--grey-9 u-spacer--top u-spacer--bottom&quot;]/div[@class=&quot;pure-u-1&quot;]/div[@class=&quot;bubbles&quot;]/div[@class=&quot;bubbles__item u-t-capitalize&quot;]</value>
+      <webElementGuid>66b8871c-1c8d-4b84-a5bb-d2d7949f8280</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-1953257']/div/div/div/div/div[3]/div/div[10]</value>
+      <webElementGuid>9d780e40-0e03-4db7-badc-d2b65937eba3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='laparoscopic surgeon']/parent::*</value>
+      <webElementGuid>7cbc1307-8907-417f-924a-0f9d3f6fceb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div[10]</value>
+      <webElementGuid>d499c073-d751-47e4-b771-42b8a80de9f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'laparoscopic surgeon (5)' or . = 'laparoscopic surgeon (5)')]</value>
+      <webElementGuid>5a5ec62c-9032-4e3b-b07b-f9f7c921a424</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

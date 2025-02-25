@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_LOGIN  SIGNUP_sc-jlwm9r-1 ewETUe</name>
+   <tag></tag>
+   <elementGuidId>278e5b63-b961-4223-98ac-f74c85be4132</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-jlwm9r-1.ewETUe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div[2]/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Scan to Download AppSave upto INR 1700\* on APP\. Use code: GOAPP\.$/ >> internal:role=paragraph >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c5775eb8-130d-4569-af04-6f326afc4356</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-jlwm9r-1 ewETUe</value>
+      <webElementGuid>d42c61e1-f485-4f95-81d9-a129d48a3795</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;sc-jlwm9r-0 jdWhnX&quot;]/p[@class=&quot;sc-jlwm9r-1 ewETUe&quot;]</value>
+      <webElementGuid>7e0277f4-be5b-4690-91b2-7c6da75dcd06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div[2]/p</value>
+      <webElementGuid>f762a126-5a37-49be-8092-8e0a2e715342</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>9d51c2cf-b32f-4614-b70c-9785a93baa89</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

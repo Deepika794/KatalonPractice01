@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>History Tab after succesful appointment flow</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bc87a8c4-37ac-4a27-838d-b9dd83ace4c3</testCaseGuid>
+</TestCaseEntity>

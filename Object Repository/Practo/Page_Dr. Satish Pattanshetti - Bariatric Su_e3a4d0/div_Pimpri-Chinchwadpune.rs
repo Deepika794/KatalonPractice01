@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Pimpri-Chinchwadpune</name>
+   <tag></tag>
+   <elementGuidId>c66500f6-2a52-41d7-a95c-db15270c8af0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-omni-suggestion-group > div.c-omni-suggestion-item > div.inner-item.bordered</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='c-omni-container']/div/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Pimpri-Chinchwadpune$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7058eccf-5353-4c82-b32f-755eb27d168a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inner-item bordered</value>
+      <webElementGuid>e8c2fdaa-ebc3-428d-9ff3-e458d642971b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pimpri-Chinchwadpune</value>
+      <webElementGuid>4fd611ab-73fa-4edc-8965-3d5cb8cc9230</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c-omni-container&quot;)/div[@class=&quot;c-omni u-clearfix&quot;]/div[@class=&quot;c-omni__wrapper u-clearfix c-omni__wrapper--locality&quot;]/div[@class=&quot;c-omni-suggestion-list&quot;]/div[@class=&quot;c-omni-suggestion-group&quot;]/div[@class=&quot;c-omni-suggestion-item&quot;]/div[@class=&quot;inner-item bordered&quot;]</value>
+      <webElementGuid>e76f8094-704a-4df0-b183-d5a9db9afd98</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c-omni-container']/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>8e53fb7c-d93f-416c-9d9b-2a22bebe3461</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search in entire pune'])[1]/following::div[3]</value>
+      <webElementGuid>fd09add9-7d0f-4c49-8a32-374d8b77e6dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Use my location'])[1]/following::div[6]</value>
+      <webElementGuid>f1c9814e-7e5d-4645-9bcc-71f0adf9acfa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>2694d864-3564-4a5d-9d1f-1a0b76a6b0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Pimpri-Chinchwadpune' or . = 'Pimpri-Chinchwadpune')]</value>
+      <webElementGuid>36640a3f-d1b0-497d-bd46-0a0a0310f6aa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Sanitycheck</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>3</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>309196e7-6ce1-4b90-bff9-880c0a378de8</testSuiteGuid>
+   <testCaseLink>
+      <guid>0565bc0b-92aa-4e9a-af8e-9b00486d983d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Goibibo/goibibo-hotel</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>5fb37889-4654-435b-afa1-8efc2179bbcc</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Goibibocities</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>5fb37889-4654-435b-afa1-8efc2179bbcc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>city</value>
+         <variableId>caf6f6ef-9471-4d87-8d66-63f001097a56</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>5fb37889-4654-435b-afa1-8efc2179bbcc</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>result</value>
+         <variableId>633e9e0c-4520-42dd-9ccf-f874d42dfc87</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

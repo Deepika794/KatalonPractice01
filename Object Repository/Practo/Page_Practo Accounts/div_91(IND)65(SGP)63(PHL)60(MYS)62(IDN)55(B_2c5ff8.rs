@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_91(IND)65(SGP)63(PHL)60(MYS)62(IDN)55(B_2c5ff8</name>
+   <tag></tag>
+   <elementGuidId>a5cfb18f-47d6-4307-aa74-76dd48a913fc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.select-box</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='register_email_form']/div/div[2]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#register_email_form div >> internal:has-text=&quot;+91(IND)+65(SGP)+63(PHL)+60(MYS)+62(IDN)+55(BRA)+52(MEX)+54(ARG)+56(CHL)+84(VNM)&quot;i >> nth=4</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e5bd90da-2818-4de6-82f2-3f0bdc174667</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>select-box</value>
+      <webElementGuid>02310f61-75cb-4b21-9ad1-a8ab20024db1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>+91(IND)+65(SGP)+63(PHL)+60(MYS)+62(IDN)+55(BRA)+52(MEX)+54(ARG)+56(CHL)+84(VNM)+971(UAE)+965(KW)+255(TZA)+973(BH)+966(SA)+1(USA)</value>
+      <webElementGuid>7de5035e-6fda-4a3d-b3c4-a18326895967</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register_email_form&quot;)/div[@class=&quot;outer-box center-align&quot;]/div[@class=&quot;outer-space&quot;]/div[@class=&quot;padding-top-8&quot;]/div[@class=&quot;padding-top-8&quot;]/div[@class=&quot;select-box&quot;]</value>
+      <webElementGuid>6faa56f6-4855-4029-91fd-f75587cbc51c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='register_email_form']/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>9baad641-683f-45ea-bd65-c1cd70c3691f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register Here'])[1]/following::div[6]</value>
+      <webElementGuid>ce84263f-0c95-4786-a7c6-5b1445b7cb48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login / Signup'])[1]/following::div[15]</value>
+      <webElementGuid>a86bb867-82c7-437d-9d5e-cd225452291e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Weak'])[1]/preceding::div[3]</value>
+      <webElementGuid>8bc598d6-d142-40a0-9eb2-1fabc196bc82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div</value>
+      <webElementGuid>1ce64cea-9943-4232-8bc4-60d0e7f4b04e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '+91(IND)+65(SGP)+63(PHL)+60(MYS)+62(IDN)+55(BRA)+52(MEX)+54(ARG)+56(CHL)+84(VNM)+971(UAE)+965(KW)+255(TZA)+973(BH)+966(SA)+1(USA)' or . = '+91(IND)+65(SGP)+63(PHL)+60(MYS)+62(IDN)+55(BRA)+52(MEX)+54(ARG)+56(CHL)+84(VNM)+971(UAE)+965(KW)+255(TZA)+973(BH)+966(SA)+1(USA)')]</value>
+      <webElementGuid>f57abebd-5b21-4d47-92f0-a8dc0ed22191</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

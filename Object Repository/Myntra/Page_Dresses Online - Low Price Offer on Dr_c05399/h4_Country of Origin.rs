@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Country of Origin</name>
+   <tag></tag>
+   <elementGuidId>f3d32f20-6781-4e23-851d-a2cb2cd8e1af</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/ul/li[2]/label/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > label > h4.atsa-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Country of Origin&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>efc87814-12e4-4620-bd92-d3d7b9c2e446</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>atsa-title</value>
+      <webElementGuid>a0bb37c5-59a1-4a4c-a615-1d74c2eba4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Country of Origin </value>
+      <webElementGuid>6bcc4625-fc19-4cb9-b8c2-1a0833c82a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSearchResults&quot;)/div[@class=&quot;row-base&quot;]/section[@class=&quot;horizontal-filters-base&quot;]/div[1]/div[@class=&quot;atsa-base&quot;]/ul[@class=&quot;atsa-filters&quot;]/li[2]/label[1]/h4[@class=&quot;atsa-title&quot;]</value>
+      <webElementGuid>64701d90-b30a-4a67-b6ed-2133990a535a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/ul/li[2]/label/h4</value>
+      <webElementGuid>992c7b88-a922-4b31-a2f5-4b8055d29c03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bundles'])[1]/following::h4[1]</value>
+      <webElementGuid>9deeb901-dd1e-491b-bf7a-c25b05a9ce09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Customer Rating'])[1]/following::h4[2]</value>
+      <webElementGuid>e9a1a448-ae43-4029-8ddb-0efb81159687</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/preceding::h4[1]</value>
+      <webElementGuid>005f7daa-03ed-405b-ad3e-a3eae0dd1208</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[2]/preceding::h4[2]</value>
+      <webElementGuid>ea8c979c-47fe-449d-845a-36f1159fc146</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Country of Origin']/parent::*</value>
+      <webElementGuid>9ad0143c-ee62-40d5-8592-1abc02f24ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/label/h4</value>
+      <webElementGuid>2714a2ea-0dbd-4bde-b1ab-3728216b569c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Country of Origin ' or . = 'Country of Origin ')]</value>
+      <webElementGuid>3b7cca68-c33e-40a8-9e63-5a338bb0e663</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Hotels in Maldives</name>
+   <tag></tag>
+   <elementGuidId>a35c7577-7f1c-4b06-8789-40f817317bb1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h1[@id='seoH1DontRemoveContainer']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#seoH1DontRemoveContainer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Hotels in Maldives&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>af8aea26-90af-47e2-bd03-5696f68df31a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>seoH1DontRemoveContainer</value>
+      <webElementGuid>3bdfe907-93d0-4808-a3f3-8276af239343</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SRPstyles__SeoSrpPageTitle-sc-1uttzk9-5 bStPUm</value>
+      <webElementGuid>ed9d6cab-230d-4d3a-a796-c75439657ed0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Hotels in Maldives</value>
+      <webElementGuid>e827e868-9976-4eb3-9230-2d7a5c91c4f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;seoH1DontRemoveContainer&quot;)</value>
+      <webElementGuid>6987f97a-31d2-4136-822e-951f7cabbff2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//h1[@id='seoH1DontRemoveContainer']</value>
+      <webElementGuid>d4671aac-cc3a-4acf-8c45-b69fc746e101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/section[2]/h1</value>
+      <webElementGuid>b7138307-5e9d-45f0-9653-b11cb5c97cfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search Location Or Hotel Name'])[1]/following::h1[1]</value>
+      <webElementGuid>5424b386-522a-4a8b-ba29-1a01fc02c4b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goibibo Reviews - Highest First'])[1]/following::h1[1]</value>
+      <webElementGuid>5ebe8a29-aa90-4d11-ab35-a2d66eaf8bd3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goibibo'])[1]/preceding::h1[1]</value>
+      <webElementGuid>b51697fd-1fc9-4552-9f3d-6ad0aa2fe59f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotels Booking'])[1]/preceding::h1[1]</value>
+      <webElementGuid>5124d5e3-ab91-4863-b39a-88ddc38da895</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Hotels in Maldives']/parent::*</value>
+      <webElementGuid>b697e238-380f-4d80-bf48-eccbf1f3a602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>3e62d7ee-c97c-4fbb-b1e7-93eb4a4a9f2f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[@id = 'seoH1DontRemoveContainer' and (text() = 'Hotels in Maldives' or . = 'Hotels in Maldives')]</value>
+      <webElementGuid>f41bd1ad-74ad-4ca3-a878-056efa4c0383</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

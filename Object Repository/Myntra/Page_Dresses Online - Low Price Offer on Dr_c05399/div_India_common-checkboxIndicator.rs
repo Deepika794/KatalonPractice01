@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_India_common-checkboxIndicator</name>
+   <tag></tag>
+   <elementGuidId>6dff1197-8bfc-48d9-84e9-917fd1ba2a60</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/div/ul/li[2]/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.atsa-values > li:nth-of-type(2) > label.common-customCheckbox > div.common-checkboxIndicator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;India&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7d2fe86-c2b8-487a-8209-0600d027975e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common-checkboxIndicator</value>
+      <webElementGuid>1c045a18-7e38-4887-870f-b173f79a3a34</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;desktopSearchResults&quot;)/div[@class=&quot;row-base&quot;]/section[@class=&quot;horizontal-filters-base horizontal-filters-hideBorder horizontal-filters-addBoxShadow&quot;]/div[1]/div[@class=&quot;atsa-base&quot;]/div[@class=&quot;atsa-atsaFiltersOptionCtn atsa-atsaShowContainer&quot;]/ul[@class=&quot;atsa-values&quot;]/li[2]/label[@class=&quot;common-customCheckbox&quot;]/div[@class=&quot;common-checkboxIndicator&quot;]</value>
+      <webElementGuid>29a21996-c5a6-403f-b752-58b9e0c25463</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='desktopSearchResults']/div/section/div/div[2]/div/ul/li[2]/label/div</value>
+      <webElementGuid>078300bd-6c78-421a-a5d4-1952c62c19ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/ul/li[2]/label/div</value>
+      <webElementGuid>12bb3012-f122-4d99-8f20-d27e0567da88</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

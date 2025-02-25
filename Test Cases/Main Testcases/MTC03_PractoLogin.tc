@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Login in practo account</description>
+   <name>MTC03_PractoLogin</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>a5b04aa3-0d1c-406b-9439-34278f21aacd</testCaseGuid>
+</TestCaseEntity>

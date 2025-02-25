@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_TRAINS</name>
+   <tag></tag>
+   <elementGuidId>04c685b3-bb3a-4343-9fcc-26671a669cae</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='top-content']/div/section/div[3]/div/ul/li[5]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(5) > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;TRAINS&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ee06322-771a-4239-aaec-c060a1d2d8f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TRAINS</value>
+      <webElementGuid>e27837b9-794b-4e21-87bf-e57041277851</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;top-content&quot;)/div[@class=&quot;col-md-12 col-sm-12 col-xs-12&quot;]/section[@class=&quot;flight-section&quot;]/div[@class=&quot;containertncs&quot;]/div[@class=&quot;width100 fl pad20 white-bg bor-rad&quot;]/ul[@class=&quot;accordion&quot;]/li[5]/span[1]</value>
+      <webElementGuid>bbcff6eb-c7c4-4407-811f-f89b6a4abce3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='top-content']/div/section/div[3]/div/ul/li[5]/span</value>
+      <webElementGuid>7f0f725c-e26e-4d92-ad09-d54adb8d93f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All other regular terms and conditions as listed on Goibibo.com applicable'])[2]/following::span[1]</value>
+      <webElementGuid>ac17cb2e-1a00-4db9-a22b-d0d7aba7a27c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offer is valid for online booking and mobile booking.'])[3]/following::span[1]</value>
+      <webElementGuid>b9ba00d5-ab81-4713-90da-b0d27ed75d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This offer cannot be clubbed with any other Goibibo offer.'])[1]/preceding::span[1]</value>
+      <webElementGuid>30740b83-d2d4-4210-9357-7a467c0446b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Goibibo is the sole authority for the interpretation of these terms.'])[1]/preceding::span[1]</value>
+      <webElementGuid>a0b6080c-5923-431c-8873-29e1cb1b57d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='TRAINS']/parent::*</value>
+      <webElementGuid>2e87d53e-ffec-497c-b672-d0e9aae59c26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span</value>
+      <webElementGuid>395b21a3-93a5-4aff-afa9-bf80e7988850</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'TRAINS' or . = 'TRAINS')]</value>
+      <webElementGuid>32d07021-6513-4c4a-9ef4-eb1416294013</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

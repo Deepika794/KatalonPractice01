@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Showing Properties in Pune</name>
+   <tag></tag>
+   <elementGuidId>71f26000-087d-47a2-ae2f-8a45fd8e0cc2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.font26</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RECOMMENDED_HOTELS']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Showing Properties in Pune&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>4a1809ac-d53f-498f-9a4c-ce1b5eaff28a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font26</value>
+      <webElementGuid>53abb536-0c87-4b91-a293-e93661520dab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Showing Properties in Pune</value>
+      <webElementGuid>bd6e1b7a-370a-4cbf-9840-00d7031a0b3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RECOMMENDED_HOTELS&quot;)/p[@class=&quot;font26&quot;]</value>
+      <webElementGuid>5f98034a-1496-4efc-8a38-129ac68d960a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RECOMMENDED_HOTELS']/p</value>
+      <webElementGuid>fb6e8a4c-066e-4578-881a-583496ecf379</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='discounts and benefits'])[1]/following::p[2]</value>
+      <webElementGuid>efecaa5b-3eeb-45c9-9021-1e3d96d342a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BACK TO TOP'])[1]/following::p[3]</value>
+      <webElementGuid>eb8febf0-92fc-40d1-9046-a55c9649fd88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::p[2]</value>
+      <webElementGuid>a13ff028-06d0-429e-a97b-9ecfd8902df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ginger Pune, Wakad'])[1]/preceding::p[2]</value>
+      <webElementGuid>51ee5a28-9ed4-49a0-8762-a4306a3164bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Showing Properties in Pune']/parent::*</value>
+      <webElementGuid>b99dc40e-97f0-4509-ba63-19e996644fcb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>a995cf08-257e-486f-b1b4-602caa22aed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Showing Properties in Pune' or . = 'Showing Properties in Pune')]</value>
+      <webElementGuid>a058f709-6c86-4216-af16-bac62a9a0430</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

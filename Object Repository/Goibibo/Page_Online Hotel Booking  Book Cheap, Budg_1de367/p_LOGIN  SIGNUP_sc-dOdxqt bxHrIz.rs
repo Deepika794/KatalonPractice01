@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_LOGIN  SIGNUP_sc-dOdxqt bxHrIz</name>
+   <tag></tag>
+   <elementGuidId>e7ba3e11-8639-4141-8393-ce23ccb463dc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.sc-dOdxqt.bxHrIz</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.sc-dOdxqt</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>33defbc1-fd92-4905-b23b-ccbe2dd76663</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sc-dOdxqt bxHrIz</value>
+      <webElementGuid>1c0f13fd-582f-4397-9696-1053dd44487b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;AppOnlineOffline__ContainerOfflineSpan-sc-1p9o9u6-0 cEnHqJ&quot;]/div[@class=&quot;dwebCommonstyles__BaseColumnWrap-sc-112ty3f-2 HomePagestyles__HomeBodyWrapperSection-sc-s8m7jv-0 civGJZ csrQiy&quot;]/div[@class=&quot;HomePagestyles__HomeBodyWrapperContentDiv-sc-s8m7jv-1 ioiaWJ&quot;]/div[1]/div[@class=&quot;sc-djZjEd bSQFCu&quot;]/p[@class=&quot;sc-dOdxqt bxHrIz&quot;]</value>
+      <webElementGuid>a561b81b-01d8-431b-824a-fb28a08eeaab</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div/p</value>
+      <webElementGuid>ec071ed4-f6a1-4166-b504-d600be9001ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/p</value>
+      <webElementGuid>57630a80-0ce6-484e-910f-7336c9ef916a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

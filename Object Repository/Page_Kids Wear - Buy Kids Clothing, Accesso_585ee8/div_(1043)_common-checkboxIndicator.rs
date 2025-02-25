@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(1043)_common-checkboxIndicator</name>
+   <tag></tag>
+   <elementGuidId>791d9791-a872-4abd-b976-91285accaaf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div[3]/ul/li/label/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.common-checkboxIndicator</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>label >> internal:has-text=&quot;Shirts(1043)&quot;i >> div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2eb4239f-2b63-4377-972d-9bb3f4a824b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>common-checkboxIndicator</value>
+      <webElementGuid>1f24488e-ba53-4f25-8524-8cd06f16d154</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mountRoot&quot;)/div[1]/main[@class=&quot;search-base&quot;]/div[@class=&quot;row-base&quot;]/div[@class=&quot;search-leftContainer column-base&quot;]/section[1]/div[@class=&quot;condition-render-verticalFilters condition-render-boundary-top&quot;]/div[@class=&quot;vertical-filters-filters categories-container&quot;]/ul[@class=&quot;categories-list&quot;]/li[1]/label[@class=&quot;common-customCheckbox vertical-filters-label&quot;]/div[@class=&quot;common-checkboxIndicator&quot;]</value>
+      <webElementGuid>44e7e9b0-3cbc-471e-9bcd-0a1bc8a11098</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mountRoot']/div/main/div[3]/div/section/div/div[3]/ul/li/label/div</value>
+      <webElementGuid>89f94c47-38aa-435c-bb18-ceb94da86361</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/label/div</value>
+      <webElementGuid>87ecf6e7-c3ca-4db9-9c6c-86c3ef878ff4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

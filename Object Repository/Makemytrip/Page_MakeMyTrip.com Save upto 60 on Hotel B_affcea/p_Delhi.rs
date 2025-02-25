@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Delhi</name>
+   <tag></tag>
+   <elementGuidId>45c9a5c9-f71f-4f71-aeda-a27a7e4c19c8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.sr_city</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='react-autowhatever-1-section-0-item-0']/div/div/div/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=option[name=&quot;Delhi&quot;i] >> internal:role=paragraph</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>485bcc46-dd35-4745-b01c-5ca057f47f16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sr_city</value>
+      <webElementGuid>c610ff17-c31e-4baf-9fe3-4be95f2c7610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Delhi</value>
+      <webElementGuid>121f9b16-c0bf-4544-804e-63f0224b4b22</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-autowhatever-1-section-0-item-0&quot;)/div[@class=&quot;clickable&quot;]/div[@class=&quot;searchedResult font16 darkText&quot;]/div[@class=&quot;hw__recentSearchTextWrapper&quot;]/p[@class=&quot;sr_city&quot;]</value>
+      <webElementGuid>84dfec30-eb21-4815-b02a-6a78740445d6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='react-autowhatever-1-section-0-item-0']/div/div/div/p</value>
+      <webElementGuid>3cdcd016-6482-408f-adf6-0440fd58b430</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CLEAR'])[1]/following::p[2]</value>
+      <webElementGuid>52f427a1-6543-44ee-8647-c142161cd4e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='City, Property name or Location'])[1]/following::p[3]</value>
+      <webElementGuid>6b83332e-ee9f-4764-ab12-c386a84c2bac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai'])[1]/preceding::p[1]</value>
+      <webElementGuid>cdf37d36-eca4-483e-a79e-3ef722a44d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/div/div/div/p</value>
+      <webElementGuid>d7c590a7-985f-49a0-b745-016a3475c703</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Delhi' or . = 'Delhi')]</value>
+      <webElementGuid>2f2dfa28-4e1b-4a4a-a978-6fccd2b40057</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>b_Pune</name>
+   <tag></tag>
+   <elementGuidId>6d17d3ce-5c10-49c7-b11c-b4bee9d48b27</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>b.b1viecjw.atm_cs_10d11i2.dir.dir-ltr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/b</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;option-0&quot;] >> internal:text=&quot;Pune&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>b</value>
+      <webElementGuid>cf2d4ee9-059f-4861-814d-26a70ccc2e76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>b1viecjw atm_cs_10d11i2 dir dir-ltr</value>
+      <webElementGuid>c3b33cab-cfab-4092-b8b4-ecdbd2d24f9a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pune</value>
+      <webElementGuid>414569ba-4fc3-408d-8b58-7d7ee5b3cb54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bigsearch-query-location-suggestion-0&quot;)/div[@class=&quot;t142a8it atm_j_1h6ojuz dir dir-ltr&quot;]/div[@class=&quot;t5i37sl atm_7l_jt7fhx atm_c8_km0zk7 atm_g3_18khvle atm_fr_1m9t47k dir dir-ltr&quot;]/b[@class=&quot;b1viecjw atm_cs_10d11i2 dir dir-ltr&quot;]</value>
+      <webElementGuid>a909e32f-e850-40fd-bbd7-aa22f77f801b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='bigsearch-query-location-suggestion-0']/div/div/b</value>
+      <webElementGuid>9b1c646c-9a71-431d-be96-8e817e84b9e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where'])[1]/following::b[1]</value>
+      <webElementGuid>7e7a150b-8381-402a-a50d-348b13f1222e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Experiences'])[1]/following::b[1]</value>
+      <webElementGuid>71ff10a5-2ca3-49e9-8206-fcf566c92465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pune'])[2]/preceding::b[1]</value>
+      <webElementGuid>68178171-b25a-4010-8f4e-d1179f42a8e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=', Maharashtra'])[1]/preceding::b[2]</value>
+      <webElementGuid>7d36ebe8-b09b-4d4e-85c4-e112ac4f4782</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Pune']/parent::*</value>
+      <webElementGuid>5096476f-0d2f-4cd1-abc7-add8ce865768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//b</value>
+      <webElementGuid>ebd73c87-ecd3-4a35-9cb1-694659f43ab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//b[(text() = 'Pune' or . = 'Pune')]</value>
+      <webElementGuid>6b15edc1-0131-4d6c-8933-4f454fb6a939</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

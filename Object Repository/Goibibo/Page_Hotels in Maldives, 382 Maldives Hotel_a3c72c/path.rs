@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>7e2dfe97-fb04-4a0c-a9f7-1f68659ada15</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>li >> internal:has-text=&quot;Free Breakfast(250)&quot;i >> path</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>90574db2-e25c-4b85-a320-3c529da8de7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>08260d61-e301-4427-9b47-0b92a44cf9c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke</name>
+      <type>Main</type>
+      <value>#647A97</value>
+      <webElementGuid>3235999f-2388-43a0-845b-16cf70c8bccd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-width</name>
+      <type>Main</type>
+      <value>1.5</value>
+      <webElementGuid>30ffacc1-82a6-4d09-a800-91c0d5854fef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M15.302 1.083a.28.28 0 0 1 .281.28v13.94a.28.28 0 0 1-.28.28H1.364a.28.28 0 0 1-.281-.28V1.364a.28.28 0 0 1 .083-.198z</value>
+      <webElementGuid>50a6c66e-6d39-4133-92fe-f6a8902aad3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;AppOnlineOffline__ContainerOfflineSpan-sc-1p9o9u6-0 cEnHqJ&quot;]/div[@class=&quot;dwebCommonstyles__BaseColumnWrap-sc-112ty3f-2 civGJZ&quot;]/div[@class=&quot;SRPstyles__BodyWrapperContentStyle-sc-1uttzk9-1 hhbmZR&quot;]/section[@class=&quot;SRPstyles__LeftSectionWrapperStyle-sc-1uttzk9-3 iBIsNh&quot;]/div[1]/div[@class=&quot;FilterScreenstyles__FilterModalScreenContentWrapper-sc-1kumrxq-0 MDeWN&quot;]/div[@class=&quot;FilterScreenstyles__FilterComponentWrapper-sc-1kumrxq-1 eATbkT&quot;]/div[@class=&quot;FilterScreenstyles__FilterContentOuterWrapper-sc-1kumrxq-6 fuMRZJ&quot;]/ul[@class=&quot;FilterScreenstyles__FilterContentWrapper-sc-1kumrxq-7 ddpqeK&quot;]/li[@class=&quot;FilterPillsListstyles__FilterPillItem-sc-1thx3gf-4 eGNQjO&quot;]/div[@class=&quot;FilterPillsListstyles__ContainerWithCheckbox-sc-1thx3gf-12 hwJQbs&quot;]/div[1]/svg[@class=&quot;HappyUncheckIcon-sc-xr90dl-0 bjiDxR&quot;]/path[1]</value>
+      <webElementGuid>4d6a844d-45a4-4d56-b406-296c8e741bcc</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Manage your clinic, answer consult qu_9d0d1b</name>
+   <tag></tag>
+   <elementGuidId>74ba01ed-1237-4dfb-aeed-418c4bc4ed48</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-omni__wrapper.u-clearfix.c-omni__wrapper--keyword > div.c-omni-searchbox_wrapper > input.c-omni-searchbox.c-omni-searchbox--small</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[placeholder=&quot;Search doctors, clinics, hospitals, etc.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>304a0059-9cde-4911-8fab-72a27cc55621</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-id</name>
+      <type>Main</type>
+      <value>omni-searchbox-keyword</value>
+      <webElementGuid>74064f31-e1d5-4265-a348-530e89de3789</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-input-box-id</name>
+      <type>Main</type>
+      <value>omni-searchbox-keyword</value>
+      <webElementGuid>aae0090a-36bd-4c3e-8f29-f3885700fc60</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-omni-searchbox c-omni-searchbox--small</value>
+      <webElementGuid>301fdb54-fce7-485a-8b2e-714803f12f5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>70b23195-9569-4886-bca4-1b35bb8812c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search doctors, clinics, hospitals, etc.</value>
+      <webElementGuid>540ff3fa-5449-4a54-b6c3-c3f91cd3ae2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;c-omni-container&quot;)/div[@class=&quot;c-omni u-clearfix&quot;]/div[@class=&quot;c-omni__wrapper u-clearfix c-omni__wrapper--keyword&quot;]/div[@class=&quot;c-omni-searchbox_wrapper&quot;]/input[@class=&quot;c-omni-searchbox c-omni-searchbox--small&quot;]</value>
+      <webElementGuid>6900ac84-6ccf-44ed-8899-76a27ee7b00a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='']</value>
+      <webElementGuid>e41bfe88-2b89-40a7-a4fe-ba1aaade8fb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='c-omni-container']/div/div[2]/div/input</value>
+      <webElementGuid>5a1f6b75-5978-45cb-bdbf-941d67fa6a76</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/input</value>
+      <webElementGuid>10c53af8-31b9-486b-b856-847554a55b50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Search doctors, clinics, hospitals, etc.']</value>
+      <webElementGuid>f5544e2c-2ae8-45fe-aa64-bb0351582a8f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Daily Steal Deals  Special Discounts_l_c0692f</name>
+   <tag></tag>
+   <elementGuidId>d3e8d4d6-802e-416c-a091-66db524a147e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.logSprite.icClose</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.logSprite</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c3941f23-3851-4df8-93b5-00b0b6e5128d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>logSprite icClose</value>
+      <webElementGuid>fa44c9db-2e34-448c-a20e-0d8616d36999</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+      <webElementGuid>9c12f655-1210-4e7e-92e0-eb20ddfc88e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;sc-ddjGPC hFQMDa modal-wrapper&quot;]/div[@class=&quot;sc-dSCufp hPCxze&quot;]/div[@class=&quot;sc-hIUJlX jlInmf&quot;]/div[@class=&quot;sc-kpDqfm ldcDzE&quot;]/div[@class=&quot;sc-dAlyuH edJWIK&quot;]/span[@class=&quot;sc-jlZhew inxprl&quot;]/span[@class=&quot;logSprite icClose&quot;]</value>
+      <webElementGuid>e0ee190b-6bcb-4c06-a5a9-6b8d3bd65edb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span</value>
+      <webElementGuid>9f4640b1-760f-48a7-8326-b758057ff614</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

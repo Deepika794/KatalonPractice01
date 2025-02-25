@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Dr. Gajendra Singh Tomar</name>
+   <tag></tag>
+   <elementGuidId>1bc0fc43-c07d-4fa6-9163-7dca90a5100a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[4]/div/div/div/div[4]/div/div/div/div[2]/a/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dr. Gajendra Singh Tomar&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>ad59ff69-bea9-4e1f-b1ba-da06bab5e595</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-id</name>
+      <type>Main</type>
+      <value>doctor_name</value>
+      <webElementGuid>5544ed2e-c019-43e8-bbf5-aa0132f4a5e2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>doctor-name</value>
+      <webElementGuid>2320cca1-ff9d-4609-af0d-c5ade3f4ce1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Gajendra Singh Tomar</value>
+      <webElementGuid>ae50061c-1ad0-474a-a527-f30467cd5c89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;container-content&quot;]/div[@class=&quot;c-listing-wrapper&quot;]/div[@class=&quot;pure-g&quot;]/div[@class=&quot;pure-u-17-24 c-listing__left&quot;]/div[@class=&quot;uv2-spacer--jumbo-xl-hz&quot;]/div[@class=&quot;u-border-general--bottom&quot;]/div[1]/div[@class=&quot;listing-doctor-card&quot;]/div[@class=&quot;u-d-flex&quot;]/div[@class=&quot;info-section&quot;]/a[1]/div[@class=&quot;u-color--primary uv2-spacer--xs-bottom&quot;]/h2[@class=&quot;doctor-name&quot;]</value>
+      <webElementGuid>6cd7c827-8bad-4db2-95ad-6bc197cbf727</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[4]/div/div/div/div[4]/div/div/div/div[2]/a/div/h2</value>
+      <webElementGuid>da338af4-d833-4e39-ae93-804fb599b0ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Profile'])[2]/following::h2[1]</value>
+      <webElementGuid>9ea4248a-8379-4cbd-9cd9-b268b3afe4be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Clinic'])[1]/following::h2[1]</value>
+      <webElementGuid>951242e7-c06b-4349-8479-c9e7c40daf4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gynecologist/Obstetrician'])[2]/preceding::h2[1]</value>
+      <webElementGuid>a694d1b7-f23d-4cc8-92dd-00eb78f11617</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='years experience overall'])[2]/preceding::h2[1]</value>
+      <webElementGuid>cf9065fc-841f-48b4-b64f-04cb7efecf11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dr. Gajendra Singh Tomar']/parent::*</value>
+      <webElementGuid>3df85d4f-ba48-4013-91be-c9daff6e1173</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/a/div/h2</value>
+      <webElementGuid>d1b37a2f-56b8-48a4-8cb9-1810a3e75d85</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Dr. Gajendra Singh Tomar' or . = 'Dr. Gajendra Singh Tomar')]</value>
+      <webElementGuid>2ca2fde2-88a8-408a-bb22-ab54b5040a93</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

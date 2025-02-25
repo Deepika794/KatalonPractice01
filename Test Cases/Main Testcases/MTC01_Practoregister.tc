@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Register new user</description>
+   <name>MTC01_Practoregister</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>d880ca87-6328-4c0f-9747-230842bbf361</testCaseGuid>
+</TestCaseEntity>

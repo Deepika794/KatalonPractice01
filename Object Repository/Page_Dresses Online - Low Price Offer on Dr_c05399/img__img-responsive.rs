@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-responsive</name>
+   <tag></tag>
+   <elementGuidId>6d8ac42f-ac6b-421a-91c0-12b494750bce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slick-slide.slick-active.slick-center > div > div > picture.img-responsive > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='31677359']/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress HOUSE OF MIRA Sizes: M Rs. 773Rs. 2577(70% OFF)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1410437b-2c84-4d53-97c4-c66f9e6da126</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>430474fb-4f8b-4756-8e10-69e43834efc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/19/ggnVosk4_5be560a4fa7f4f80a49af4f77db5ea5b.jpg</value>
+      <webElementGuid>c5025397-7fc0-48b0-8aa3-a16468992f0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>4cd2af71-6d9a-4d89-a409-c596c4cbb610</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress</value>
+      <webElementGuid>e2dcafbe-4f2b-4480-b89a-ded96e6d311f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress</value>
+      <webElementGuid>cd44cef7-fcfc-4d2a-80dd-1d738ec6ccdd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;31677359&quot;)/a[1]/div[@class=&quot;product-imageSliderContainer&quot;]/div[@class=&quot;product-sliderContainer&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-center&quot;]/div[1]/div[1]/picture[@class=&quot;img-responsive&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>e058d4d6-763b-4cf5-bb8b-309ed40a6c60</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='31677359']/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      <webElementGuid>5200b3b8-92a5-4abd-b0ea-0f55a552636c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress'])[2]</value>
+      <webElementGuid>495bbc51-f624-43c1-8068-48c65d29507b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/picture/img</value>
+      <webElementGuid>d9c8e720-4054-4f38-a9f3-21270386b1c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/2024/NOVEMBER/19/ggnVosk4_5be560a4fa7f4f80a49af4f77db5ea5b.jpg' and @alt = 'HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress' and @title = 'HOUSE OF MIRA Women Floral Printed Shoulder Sleeves A-line Midi Dress']</value>
+      <webElementGuid>763f0d04-778f-495e-b7e1-0cebe0022638</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

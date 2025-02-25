@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Careers_1</name>
+   <tag></tag>
+   <elementGuidId>cdf14650-1eb4-43d3-ba7c-5a07065c8567</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Security'])[2]/following::div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Careers&quot;i] >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9e882679-0502-474c-874f-cb131f5a7e67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-tab__title</value>
+      <webElementGuid>7e4e4b3a-810c-4de6-895a-2e2fd99ce9ef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Careers</value>
+      <webElementGuid>7966ab55-015b-490e-9a08-ad21ebc38b90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr_body&quot;]/div[@class=&quot;practo_CompanyNavigation&quot;]/div[@class=&quot;navbar desktop en&quot;]/div[@class=&quot;wrapper branding&quot;]/div[@class=&quot;nav-right text-right&quot;]/div[@class=&quot;product-tab&quot;]/a[@class=&quot;nav-interact&quot;]/div[@class=&quot;product-tab__title&quot;]</value>
+      <webElementGuid>d4474700-e9c3-4a7e-8a3f-48df1347d1d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Security'])[2]/following::div[2]</value>
+      <webElementGuid>aa5b4882-83a3-4300-a21c-5992b6e02900</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guiding Principles'])[2]/following::div[4]</value>
+      <webElementGuid>63e19287-776f-4d91-8825-3d4c958c40d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Patients'])[1]/preceding::div[1]</value>
+      <webElementGuid>a45c7200-acd6-4899-a5c0-a8810894e52c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Providers'])[1]/preceding::div[3]</value>
+      <webElementGuid>2acbdd88-ec58-4536-9800-d4f16847572a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/a/div</value>
+      <webElementGuid>be0d038e-b113-4eea-a57c-1ec61d639557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Careers' or . = 'Careers')]</value>
+      <webElementGuid>0c6e5ecf-bdc4-47f7-b81c-edf1eb5d4316</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

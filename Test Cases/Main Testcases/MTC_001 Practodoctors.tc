@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Book doctor's appointment</description>
+   <name>MTC_001 Practodoctors</name>
+   <tag>Smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>80c0531f-d70c-4f73-a2c0-1fcaf618621d</testCaseGuid>
+</TestCaseEntity>

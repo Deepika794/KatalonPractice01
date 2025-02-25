@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Consilt</description>
+   <name>MTC04_ConsultDoctor</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>97066184-f61d-4d59-afb7-7390c93ce534</testCaseGuid>
+</TestCaseEntity>

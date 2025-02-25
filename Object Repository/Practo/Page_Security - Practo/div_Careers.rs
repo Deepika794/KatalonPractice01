@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Careers</name>
+   <tag></tag>
+   <elementGuidId>36f767e1-1521-49ac-90e7-ad407d0ed78e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Security'])[2]/following::div[1]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.nav-right > div:nth-child(4)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>55fb73ca-8b15-4f4c-8026-77d0d0af957f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-tab</value>
+      <webElementGuid>075b9a5e-72d3-4bb8-82e7-4144717ab026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                              Careers
+                          </value>
+      <webElementGuid>95e49afa-4346-45ca-825c-1d8ad10f0b0b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[@class=&quot;pr_body&quot;]/div[@class=&quot;practo_CompanyNavigation&quot;]/div[@class=&quot;navbar desktop en&quot;]/div[@class=&quot;wrapper branding&quot;]/div[@class=&quot;nav-right text-right&quot;]/div[@class=&quot;product-tab&quot;]</value>
+      <webElementGuid>311cbf2b-36f4-41bf-9432-c9862ec471aa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Security'])[2]/following::div[1]</value>
+      <webElementGuid>c3c88679-c6bd-47b8-8f40-012219219471</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Guiding Principles'])[2]/following::div[3]</value>
+      <webElementGuid>bcb9ee71-43a5-43ff-ac95-c7b5f7f85eb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For Patients'])[1]/preceding::div[2]</value>
+      <webElementGuid>1bcdb882-cfd5-4458-9c79-d1f3260df1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>7c795f52-61dc-4039-a709-267031f54484</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                              Careers
+                          ' or . = '
+                              Careers
+                          ')]</value>
+      <webElementGuid>03a23a35-bfbd-46d4-a90d-a0a620896835</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

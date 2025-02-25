@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__img-responsive</name>
+   <tag></tag>
+   <elementGuidId>038e8e62-3f40-4424-8a4f-3fad2a9f1d89</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.slick-slide.slick-active.slick-center > div > div > picture.img-responsive > img.img-responsive</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='17813622']/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans Trendyol Sizes: 26 Rs. 1319Rs. 3299(60% OFF)&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>d902398f-c777-43a0-b54a-4160534a106a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>draggable</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7240f1bc-4414-4484-900e-881808d62eb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17813622/2022/5/5/fcd88e82-82d3-4b1f-8e7f-6d73007851951651734127058-Trendyol-Women-Blue-Flared-High-Rise-Light-Fade-Stretchable--1.jpg</value>
+      <webElementGuid>729dbfe4-b199-4fc7-8ca9-3d353ad4d002</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img-responsive</value>
+      <webElementGuid>482d0712-078c-4294-8248-44987dc3b038</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans</value>
+      <webElementGuid>74380421-58fd-4c9a-b937-fa88d7fc2831</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans</value>
+      <webElementGuid>5348ec3f-6ef1-426d-8157-25c2608424b9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;17813622&quot;)/a[1]/div[@class=&quot;product-imageSliderContainer&quot;]/div[@class=&quot;product-sliderContainer&quot;]/div[@class=&quot;slick-initialized slick-slider&quot;]/div[@class=&quot;slick-list&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slick-slide slick-active slick-center&quot;]/div[1]/div[1]/picture[@class=&quot;img-responsive&quot;]/img[@class=&quot;img-responsive&quot;]</value>
+      <webElementGuid>98638830-0816-4864-b289-40cf7b75966a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='17813622']/a/div/div/div/div/div/div[2]/div/div/picture/img</value>
+      <webElementGuid>a956a7bc-960a-443d-8934-661fde3516a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>(//img[@alt='Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans'])[2]</value>
+      <webElementGuid>0be1172e-34f8-463f-87e3-61da5019889c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/picture/img</value>
+      <webElementGuid>222ba0c2-5881-45ac-a963-3ee2ee5a6031</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://assets.myntassets.com/dpr_2,q_60,w_210,c_limit,fl_progressive/assets/images/17813622/2022/5/5/fcd88e82-82d3-4b1f-8e7f-6d73007851951651734127058-Trendyol-Women-Blue-Flared-High-Rise-Light-Fade-Stretchable--1.jpg' and @alt = 'Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans' and @title = 'Trendyol Women Bootcut Flared High-Rise Light Fade Stretchable Jeans']</value>
+      <webElementGuid>a2c304fc-8a4c-4d20-813f-1f734589062f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

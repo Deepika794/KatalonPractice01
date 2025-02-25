@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Search Bus</name>
+   <tag></tag>
+   <elementGuidId>3a6887a8-4283-4441-9751-4bea37b92dfc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/section/section/section/section/div[4]/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;searchBusBtn&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f44c8ee-a900-487e-a789-0e38ce48422c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>searchBusBtn</value>
+      <webElementGuid>f1dd55e2-0267-478e-ab3b-ad852da2b5a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search Bus</value>
+      <webElementGuid>aeb8d135-a4cb-435d-9919-2d62e3cdc187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/section[@class=&quot;HomePagestyles__HomePageWrapper-sc-1tll6im-0 gWuvFD&quot;]/section[@class=&quot;HomePagestyles__PageContentWrapper-sc-1tll6im-3 jdcZkN&quot;]/section[@class=&quot;HomePagestyles__SearchBlock-sc-1tll6im-5 iSjmmZ&quot;]/section[@class=&quot;SearchWidgetstyles__SearchWidgetWrap-sc-1mr4hwz-0 dexxcv&quot;]/div[@class=&quot;SearchWidgetstyles__ButtonWrap-sc-1mr4hwz-7 bXLXuO&quot;]/button[1]</value>
+      <webElementGuid>2a35ac35-9dd2-41aa-8e92-40dc0d5db7fa</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/section/section/section/section/div[4]/button</value>
+      <webElementGuid>7b3e5970-e7c2-483b-8aa8-da660de7fc21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tomorrow'])[1]/following::button[1]</value>
+      <webElementGuid>d1a661fd-4eea-488d-81f4-164be8e2c71d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search Bus']/parent::*</value>
+      <webElementGuid>daff4d23-c711-4266-9596-f68de2f7b8e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>c9904248-d8a5-4af7-93f0-0e904ea31962</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Search Bus' or . = 'Search Bus')]</value>
+      <webElementGuid>4a2d1c27-130f-4340-9ca0-8458a1854359</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

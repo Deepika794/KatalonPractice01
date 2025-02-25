@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Explore Maldives_ExploreCityCardstyles__efa0b0</name>
+   <tag></tag>
+   <elementGuidId>6a84c7a2-202d-46b6-a70d-1487dee444bc</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/section[2]/div/div/div[5]/div/div[2]/p/div/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.ExploreCityCardstyles__CityImage-sc-7ehi3k-12.iHvNBs</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>p >> internal:has-text=&quot;North Male Atoll10,000 - 30,000 INRRoom Cost/ NightKnow MoreMaafushi3,500 - 10,0&quot;i >> img >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>72ffae36-04cf-4229-ae3e-f65b5c5e9b50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/poi-f1a36ed89af7ca046bb924246583914d-North Male Atoll.jpg?downsize=390:215</value>
+      <webElementGuid>a48836b2-af02-4f61-8199-34e62b35d023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ExploreCityCardstyles__CityImage-sc-7ehi3k-12 iHvNBs</value>
+      <webElementGuid>fe1c7bfa-43b6-4552-b253-e870d6728527</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;AppOnlineOffline__ContainerOfflineSpan-sc-1p9o9u6-0 cEnHqJ&quot;]/div[@class=&quot;dwebCommonstyles__BaseColumnWrap-sc-112ty3f-2 civGJZ&quot;]/div[@class=&quot;SRPstyles__BodyWrapperContentStyle-sc-1uttzk9-1 hhbmZR&quot;]/section[@class=&quot;SRPstyles__RightSectionWrapperStyle-sc-1uttzk9-2 cIxonf&quot;]/div[1]/div[@class=&quot;infinite-scroll-component&quot;]/div[@class=&quot;Moblandingstyles__MoblandingWrapper-sc-fwz0nj-0 hLZkQt&quot;]/div[@class=&quot;ExploreCityCardstyles__ExploreCitiesCardWrapper-sc-7ehi3k-0 fzhWfY&quot;]/div[@class=&quot;ExploreCityCardstyles__ExploreCitiesSliderWrap-sc-7ehi3k-4 inJSqG&quot;]/p[@class=&quot;ExploreCityCardstyles__CityInnerWrapper-sc-7ehi3k-7 hqzIsR&quot;]/div[@class=&quot;ExploreCityCardstyles__CityItem-sc-7ehi3k-10 ieIFxO&quot;]/div[@class=&quot;ExploreCityCardstyles__CityImageDiv-sc-7ehi3k-11 erHjpx&quot;]/img[@class=&quot;ExploreCityCardstyles__CityImage-sc-7ehi3k-12 iHvNBs&quot;]</value>
+      <webElementGuid>c17c615c-774c-462f-8c8d-b70e7c103121</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/section[2]/div/div/div[5]/div/div[2]/p/div/div/img</value>
+      <webElementGuid>b74fe0bf-c37f-4e80-bba7-b5f2aa613231</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/div/div/img</value>
+      <webElementGuid>fe86df87-b409-4e13-93ba-8b75c116ac14</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://r2imghtlak.mmtcdn.com/r2-mmt-htl-image/poi-f1a36ed89af7ca046bb924246583914d-North Male Atoll.jpg?downsize=390:215']</value>
+      <webElementGuid>52cb236b-b5c4-4e69-ab1b-84159a53c575</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

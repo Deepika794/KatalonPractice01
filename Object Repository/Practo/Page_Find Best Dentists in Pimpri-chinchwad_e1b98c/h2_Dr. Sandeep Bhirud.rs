@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Dr. Sandeep Bhirud</name>
+   <tag></tag>
+   <elementGuidId>f087b1f0-2abc-4b07-8d59-6017c5182761</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[4]/div/div/div/div[4]/div/div/div/div[2]/a/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dr. Sandeep Bhirud&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>8f6523b1-1d37-49d7-9f24-fcfdd39d1eaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-id</name>
+      <type>Main</type>
+      <value>doctor_name</value>
+      <webElementGuid>6a8cf4a8-22c2-4418-b90f-50b2f74b2437</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>doctor-name</value>
+      <webElementGuid>daf6c153-e7cd-4959-9134-26fc13e03def</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Sandeep Bhirud</value>
+      <webElementGuid>e03406cc-a7e5-47a6-976d-0a5a9e1fa6bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[@class=&quot;container-content&quot;]/div[@class=&quot;c-listing-wrapper&quot;]/div[@class=&quot;pure-g&quot;]/div[@class=&quot;pure-u-17-24 c-listing__left&quot;]/div[@class=&quot;uv2-spacer--jumbo-xl-hz&quot;]/div[@class=&quot;u-border-general--bottom&quot;]/div[1]/div[@class=&quot;listing-doctor-card&quot;]/div[@class=&quot;u-d-flex&quot;]/div[@class=&quot;info-section&quot;]/a[1]/div[@class=&quot;u-color--primary uv2-spacer--xs-bottom&quot;]/h2[@class=&quot;doctor-name&quot;]</value>
+      <webElementGuid>47a693c3-3b54-4f5d-b334-5570326c2ef6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[4]/div/div/div/div[4]/div/div/div/div[2]/a/div/h2</value>
+      <webElementGuid>43e70ad6-d33f-499f-8ebe-6b7103bb18cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Profile'])[2]/following::h2[1]</value>
+      <webElementGuid>f837fb25-ceb2-4450-bb2d-011ce29dbcb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact Clinic'])[1]/following::h2[1]</value>
+      <webElementGuid>d2ddaf82-a840-42ff-85af-aed57363681b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dentist'])[2]/preceding::h2[1]</value>
+      <webElementGuid>2904fe6b-aed3-41d2-aac4-839bdd89c8e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='years experience overall'])[2]/preceding::h2[1]</value>
+      <webElementGuid>74c81ed6-32b2-4e84-9c41-77ebe0467800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dr. Sandeep Bhirud']/parent::*</value>
+      <webElementGuid>9ffec5d6-9e0a-468e-b473-2e93577fe018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div[2]/a/div/h2</value>
+      <webElementGuid>66f3a14e-7ad4-4b0a-bb6a-8fc09bcb8e19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Dr. Sandeep Bhirud' or . = 'Dr. Sandeep Bhirud')]</value>
+      <webElementGuid>a9b1c949-4e8e-4596-9eda-ee50deb5840c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

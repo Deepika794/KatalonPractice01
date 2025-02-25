@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Party Destinations_TopDestinationsUIsty_257699</name>
+   <tag></tag>
+   <elementGuidId>f9899149-74b4-404f-8077-977e20fda849</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div[6]/section/section/ul/li/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.TopDestinationsUIstyles__SuggestCardImage-sc-fymb7k-5.jbHabq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;An ultimate luxurious and romantic holiday destination Maldives&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>275b38c7-3a60-4a33-9d8f-b247fc50388f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://cdn1.goibibo.com/voy_ing/t_g/New_dWeb_Homepage_Maldives-1581454743.jpg?im=Resize=(258,145)</value>
+      <webElementGuid>c4fd06a2-52a5-426f-8a81-71479e758e4b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>An ultimate luxurious and romantic holiday destination</value>
+      <webElementGuid>0b48be4a-93f0-4ace-8a42-695e341087bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>TopDestinationsUIstyles__SuggestCardImage-sc-fymb7k-5 jbHabq</value>
+      <webElementGuid>0edf3a40-4318-4d2b-8d7f-4699dd4c7adc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[@class=&quot;AppOnlineOffline__ContainerOfflineSpan-sc-1p9o9u6-0 cEnHqJ&quot;]/div[@class=&quot;dwebCommonstyles__BaseColumnWrap-sc-112ty3f-2 HomePagestyles__HomeBodyWrapperSection-sc-s8m7jv-0 civGJZ csrQiy&quot;]/div[@class=&quot;HomePagestyles__HomeBodyWrapperContentDiv-sc-s8m7jv-1 ioiaWJ&quot;]/div[6]/section[@class=&quot;TopDestinationsUIstyles__SuggestedMainWrapper-sc-fymb7k-0 iRlUMi&quot;]/section[@class=&quot;TopDestinationsUIstyles__SuggestedCardListContainer-sc-fymb7k-1 hwsGgG&quot;]/ul[@class=&quot;TopDestinationsUIstyles__SuggestedCardList-sc-fymb7k-3 dsjwlY&quot;]/li[@class=&quot;TopDestinationsUIstyles__SuggestCardListLi-sc-fymb7k-4 dJOOid&quot;]/a[1]/img[@class=&quot;TopDestinationsUIstyles__SuggestCardImage-sc-fymb7k-5 jbHabq&quot;]</value>
+      <webElementGuid>f95ba5bf-2c51-4355-b796-06a5562be415</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div[6]/section/section/ul/li/a/img</value>
+      <webElementGuid>e3fb8692-5ebc-4ba5-877d-f3afd009a20d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='An ultimate luxurious and romantic holiday destination']</value>
+      <webElementGuid>6bb09867-b423-41c8-a70a-fa58d066440c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>f37580da-f866-46a2-b022-4d911a10635b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://cdn1.goibibo.com/voy_ing/t_g/New_dWeb_Homepage_Maldives-1581454743.jpg?im=Resize=(258,145)' and @alt = 'An ultimate luxurious and romantic holiday destination']</value>
+      <webElementGuid>e0bd844d-0679-4953-8fcc-addc6596443f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

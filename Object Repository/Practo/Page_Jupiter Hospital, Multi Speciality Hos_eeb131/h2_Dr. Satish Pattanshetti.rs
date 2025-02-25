@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Dr. Satish Pattanshetti</name>
+   <tag></tag>
+   <elementGuidId>d582e674-69eb-4e88-8fb0-2e9bead712ed</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-1953257']/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/a/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dr. Satish Pattanshetti&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>9d191a08-10c7-445f-905d-98778c243097</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-qa-id</name>
+      <type>Main</type>
+      <value>doctor_name</value>
+      <webElementGuid>856c806b-996f-4743-9663-e397e7c0838e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>u-title-font u-c-pointer u-bold</value>
+      <webElementGuid>bbe6b6f6-2f07-4e1e-a6a1-55d930f6f389</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dr. Satish Pattanshetti</value>
+      <webElementGuid>4ae0db14-48c3-475b-85b5-5bb2adde1430</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-1953257&quot;)/div[@class=&quot;c-profile--sections&quot;]/div[2]/div[1]/div[@class=&quot;u-cushion u-white-fill u-normal-text o-card o-card--separated c-list-card&quot;]/div[@class=&quot;c-card&quot;]/div[@class=&quot;pure-g c-card__body u-spacer--bottom-less&quot;]/div[@class=&quot;pure-u-18-24&quot;]/div[@class=&quot;o-media&quot;]/div[@class=&quot;o-media__body u-cushion--right&quot;]/div[@class=&quot;c-card-info&quot;]/a[@class=&quot;u-color--primary&quot;]/h2[@class=&quot;u-title-font u-c-pointer u-bold&quot;]</value>
+      <webElementGuid>8c368c66-447a-41fb-b90d-356226df673e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-1953257']/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/a/h2</value>
+      <webElementGuid>39340fd2-59c6-4769-811a-e77223c0386e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='contact hospital'])[2]/following::h2[1]</value>
+      <webElementGuid>bcd82de9-334c-4e48-a72b-e9d18238b380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Profile'])[2]/following::h2[1]</value>
+      <webElementGuid>e1e864db-5819-4ae9-abdd-9496f029c043</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MBBS, MS - General Surgery'])[1]/preceding::h2[1]</value>
+      <webElementGuid>19992ef6-8a54-494c-bb3d-fd024ab85fc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='years experience overall'])[3]/preceding::h2[1]</value>
+      <webElementGuid>7a8a3a2f-2c4b-4ced-83aa-25a45ade94e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Dr. Satish Pattanshetti']/parent::*</value>
+      <webElementGuid>f55689b7-5367-49f0-98cf-e33133eed44e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div[2]/div/a/h2</value>
+      <webElementGuid>ae5b545e-1c44-49ae-8a50-a2e6ddab0be2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Dr. Satish Pattanshetti' or . = 'Dr. Satish Pattanshetti')]</value>
+      <webElementGuid>b477abc2-1e5f-4514-9f49-9f99a03456ac</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

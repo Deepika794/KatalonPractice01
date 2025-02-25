@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Showing Properties in Delhi</name>
+   <tag></tag>
+   <elementGuidId>c7407c4a-7737-4397-8992-ab28ab496fde</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>p.font26</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='RECOMMENDED_HOTELS']/p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Showing Properties in Delhi&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b6eea0ca-21ad-4de8-8f52-8d51a54f193b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>font26</value>
+      <webElementGuid>fae18765-85e6-402d-964d-c52215801aef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Showing Properties in Delhi</value>
+      <webElementGuid>c44a3b01-b68b-46c1-bead-8e586a1a54be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;RECOMMENDED_HOTELS&quot;)/p[@class=&quot;font26&quot;]</value>
+      <webElementGuid>87b76dca-7aa0-4dbe-b3e6-9a20588e1616</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='RECOMMENDED_HOTELS']/p</value>
+      <webElementGuid>8242b405-39df-41f6-8e00-fbbc68b1912e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='discounts and benefits'])[1]/following::p[2]</value>
+      <webElementGuid>ab573011-9e91-4b4d-a9fa-dee275cb3e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BACK TO TOP'])[1]/following::p[3]</value>
+      <webElementGuid>57a774d2-ecc2-42c2-8b9f-9db948a65dfb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View All'])[1]/preceding::p[2]</value>
+      <webElementGuid>fec91b85-69d0-4b43-ad2e-d5cc5ec0b13d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Radisson Blu Hotel New Delhi Paschim Vihar'])[1]/preceding::p[2]</value>
+      <webElementGuid>a4066560-ac79-4f69-a1b7-b3064c0b8259</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Showing Properties in Delhi']/parent::*</value>
+      <webElementGuid>209ac3d5-bc87-46e3-85ca-0b766f3fe388</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div/div/div[2]/div/p</value>
+      <webElementGuid>f18f7004-39c9-495c-a3c0-643ca2215530</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Showing Properties in Delhi' or . = 'Showing Properties in Delhi')]</value>
+      <webElementGuid>a11a62a8-3987-4355-bfb7-302ded9a8071</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Doctor friendliness</name>
+   <tag></tag>
+   <elementGuidId>975a2c73-9200-4695-9e94-e2254ffff017</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.feedback__context</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='react-tabs-740767']/div/div[2]/div[3]/div/div/div/div[2]/div[2]/p[2]/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Doctor friendliness&quot;i >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ff42606-7e87-4877-b1eb-5dbc212f1cd7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>feedback__context</value>
+      <webElementGuid>61dcb592-ee7b-4d64-9ace-9af8eec98c42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Doctor friendliness</value>
+      <webElementGuid>ed90858a-1bed-4e49-9bb6-dc9e9ea01a48</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;react-tabs-740767&quot;)/div[1]/div[@class=&quot;u-spacer--top&quot;]/div[@class=&quot;c-profile--sections&quot;]/div[@class=&quot;feedback--list-container&quot;]/div[1]/div[@class=&quot;pure-g feedback--item u-cushion--medium-vertical&quot;]/div[@class=&quot;pure-u-22-24 u-lheight-default&quot;]/div[@class=&quot;feedback__body&quot;]/p[@class=&quot;feedback__content u-cushion--small-bottom u-large-font&quot;]/span[@class=&quot;feedback__context&quot;]</value>
+      <webElementGuid>c65fc611-1da1-4c74-8414-4ac1b59c9460</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='react-tabs-740767']/div/div[2]/div[3]/div/div/div/div[2]/div[2]/p[2]/span[2]</value>
+      <webElementGuid>3959a8f6-5ecd-4c0e-bde2-a9ce52ac3d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Happy with:'])[1]/following::span[1]</value>
+      <webElementGuid>0e17c950-7f42-454a-9258-b30c4a32efa1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='I recommend the doctor'])[1]/following::span[3]</value>
+      <webElementGuid>cc6a0b4b-d8bd-4450-a1ef-35d104dc0760</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Explanation of the health issue'])[1]/preceding::span[1]</value>
+      <webElementGuid>346fdc76-8001-4aad-8709-d15e7da6708e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Treatment satisfaction'])[1]/preceding::span[2]</value>
+      <webElementGuid>847625af-ac6e-4aaa-b8d8-14c193d35a38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Doctor friendliness']/parent::*</value>
+      <webElementGuid>b9640706-5038-4291-93b5-f7d895e54d34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p[2]/span[2]</value>
+      <webElementGuid>a29246a5-4c97-4686-be40-f19caad073e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Doctor friendliness' or . = 'Doctor friendliness')]</value>
+      <webElementGuid>37ae6703-e590-42d3-9f9f-8a20e0e4ede3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
