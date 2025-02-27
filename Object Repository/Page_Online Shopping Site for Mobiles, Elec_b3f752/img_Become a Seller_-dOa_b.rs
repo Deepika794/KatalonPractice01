@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Become a Seller_-dOa_b</name>
+   <tag></tag>
+   <elementGuidId>46cf6bb7-cabd-4591-82b7-03c20ca2ec59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > div._38VF5e > div._3jeYYh > div._1Us3XD > div.H6-NpN > a._1TOQfO > img.-dOa_b</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[5]/div/div/div/div/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Dropdown with more help links&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b75c2569-54d1-454a-a157-033835b76565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>-dOa_b</value>
+      <webElementGuid>afa5b040-2fae-4c16-bcfa-e5365efeeb67</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/header_3verticalDots-ea7819.svg</value>
+      <webElementGuid>7ec1a3ac-b17f-4498-8ae9-000b18ff9a30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>1904db28-7345-4b23-a561-9609a07b9ddd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>24</value>
+      <webElementGuid>e5caaf1d-44ca-46cc-803d-901935e2082c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Dropdown with more help links</value>
+      <webElementGuid>b760b89d-7eb7-44ff-af84-bad313e14465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;q8WwEU&quot;]/div[@class=&quot;_3zsGrb&quot;]/div[@class=&quot;_2-LWwB&quot;]/div[1]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;css-175oi2r r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;_1ui5b4&quot;]/div[@class=&quot;_2nl6Ch&quot;]/div[@class=&quot;_2NhoPJ&quot;]/header[@class=&quot;_3EOQ5Q&quot;]/div[@class=&quot;_2msBFL&quot;]/div[5]/div[@class=&quot;_38VF5e&quot;]/div[@class=&quot;_3jeYYh&quot;]/div[@class=&quot;_1Us3XD&quot;]/div[@class=&quot;H6-NpN&quot;]/a[@class=&quot;_1TOQfO&quot;]/img[@class=&quot;-dOa_b&quot;]</value>
+      <webElementGuid>4c4e943a-9f19-4023-bad4-7d774a4fdf05</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[5]/div/div/div/div/a/img</value>
+      <webElementGuid>9bb49d2c-223d-423d-800c-e4793765eda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Dropdown with more help links']</value>
+      <webElementGuid>42f929d7-4207-42e5-8ccc-af4db35b2c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/div/a/img</value>
+      <webElementGuid>59c38838-1a99-41cb-91de-b134e45539d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://static-assets-web.flixcart.com/batman-returns/batman-returns/p/images/header_3verticalDots-ea7819.svg' and @alt = 'Dropdown with more help links']</value>
+      <webElementGuid>fc8b509f-2a1e-4812-a7f0-f752768d469b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c3941f23-3851-4df8-93b5-00b0b6e5128d</webElementGuid>
+      <webElementGuid>1691647d-2363-40ce-8c0e-f6bd7ee21d34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>logSprite icClose</value>
-      <webElementGuid>fa44c9db-2e34-448c-a20e-0d8616d36999</webElementGuid>
+      <webElementGuid>6c6f3ca6-484f-428c-bc5a-5b7a4252bf58</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,15 +45,15 @@
       <name>role</name>
       <type>Main</type>
       <value>presentation</value>
-      <webElementGuid>9c12f655-1210-4e7e-92e0-eb20ddfc88e3</webElementGuid>
+      <webElementGuid>32068531-73ba-4eec-8739-9c989dcb97a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;sc-ddjGPC hFQMDa modal-wrapper&quot;]/div[@class=&quot;sc-dSCufp hPCxze&quot;]/div[@class=&quot;sc-hIUJlX jlInmf&quot;]/div[@class=&quot;sc-kpDqfm ldcDzE&quot;]/div[@class=&quot;sc-dAlyuH edJWIK&quot;]/span[@class=&quot;sc-jlZhew inxprl&quot;]/span[@class=&quot;logSprite icClose&quot;]</value>
-      <webElementGuid>e0ee190b-6bcb-4c06-a5a9-6b8d3bd65edb</webElementGuid>
+      <value>/html[1]/body[@class=&quot;desktop&quot;]/div[@class=&quot;sc-hwdzOV hAlsJg modal-wrapper&quot;]/div[@class=&quot;sc-jaXxmE hxDJGS&quot;]/div[@class=&quot;sc-jGKxIK dUoHid&quot;]/div[@class=&quot;sc-jsJBEP guMGBh&quot;]/div[@class=&quot;sc-eeDRCY QfmYf&quot;]/span[@class=&quot;sc-koXPp bDtzaf&quot;]/span[@class=&quot;logSprite icClose&quot;]</value>
+      <webElementGuid>c374c788-1ea7-4aa4-9c45-d6d762ff2ae9</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,6 +61,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span</value>
-      <webElementGuid>9f4640b1-760f-48a7-8326-b758057ff614</webElementGuid>
+      <webElementGuid>f177eefd-3789-4560-961c-f68029f7c2e1</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

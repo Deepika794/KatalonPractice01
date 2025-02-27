@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_24x7 Customer Care</name>
+   <tag></tag>
+   <elementGuidId>f677d754-412c-4cc2-9180-1667d3a0b366</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[5]/div/div/div/ul/a[2]/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;24x7 Customer Care 24x7 Customer Care&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>b200338c-8f39-4534-ba99-35d725d15a88</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>AT0fUR</value>
+      <webElementGuid>a6821980-0893-4a19-87fe-03bb747b3da8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>24x7 Customer Care</value>
+      <webElementGuid>49d06c4f-0331-4f20-be63-964b80e57340</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;q8WwEU&quot;]/div[@class=&quot;_3zsGrb&quot;]/div[@class=&quot;_2-LWwB&quot;]/div[1]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r&quot;]/div[@class=&quot;css-175oi2r r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;css-175oi2r r-13awgt0 r-1iqfa7g r-60vfwk&quot;]/div[@class=&quot;_1ui5b4&quot;]/div[@class=&quot;_2nl6Ch&quot;]/div[@class=&quot;_2NhoPJ&quot;]/header[@class=&quot;_3EOQ5Q&quot;]/div[@class=&quot;_2msBFL&quot;]/div[5]/div[@class=&quot;_38VF5e&quot;]/div[@class=&quot;_3jeYYh&quot;]/div[@class=&quot;_1Us3XD&quot;]/ul[@class=&quot;_3YjYK7&quot;]/a[@class=&quot;yx2hEq&quot;]/li[@class=&quot;AT0fUR&quot;]</value>
+      <webElementGuid>e7238639-bbd9-4f8c-a2c5-11a41192e59f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div/div/div/div/div/div/div/div/div/div/div/header/div[2]/div[5]/div/div/div/ul/a[2]/li</value>
+      <webElementGuid>deb72a79-416a-4c72-a816-e3f794ef582a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Notification Preferences'])[1]/following::li[1]</value>
+      <webElementGuid>ed5c623f-2b9f-4e3d-ab74-0d14aaaaeafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Become a Seller'])[1]/following::li[2]</value>
+      <webElementGuid>f73001ee-7e5d-4c86-9a4e-cc783f3c02b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Advertise'])[1]/preceding::li[1]</value>
+      <webElementGuid>72c07809-1795-4eaa-9c27-d991f45ccea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Download App'])[1]/preceding::li[2]</value>
+      <webElementGuid>192c5eb5-b44d-42be-b254-26c6530e2e02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='24x7 Customer Care']/parent::*</value>
+      <webElementGuid>43946985-03bc-4983-97ce-07fbf0a595dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div/div/ul/a[2]/li</value>
+      <webElementGuid>9e9d420b-9b5c-4d75-af53-b8f7773550c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '24x7 Customer Care' or . = '24x7 Customer Care')]</value>
+      <webElementGuid>12ce0ae2-b767-4285-9703-331d1b742667</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Battery Capacity_XqNaEv</name>
+   <tag></tag>
+   <elementGuidId>131febf7-9db6-4fb2-9a62-92a1b514c8fe</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='container']/div/div[3]/div[3]/div/div/section[9]/div[2]/div/div/div/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:attr=[title=&quot;1000 - 1999 mAh&quot;i] >> div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5119b6f6-1123-4625-9f2e-690e51425870</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>XqNaEv</value>
+      <webElementGuid>043cdf31-eddf-4f6a-b3eb-991fd8e3a2cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;container&quot;)/div[1]/div[@class=&quot;JxFEK3 _48O0EI&quot;]/div[@class=&quot;DOjaWF YJG4Cf&quot;]/div[@class=&quot;cPHDOP col-2-12&quot;]/div[@class=&quot;_0BvurA&quot;]/section[@class=&quot;-5qqlC _2OLUF3&quot;]/div[@class=&quot;SDsN9S&quot;]/div[@class=&quot;bs1+1t&quot;]/div[@class=&quot;ewzVkT _3DvUAf&quot;]/div[@class=&quot;QCKZip hpLdC3&quot;]/label[@class=&quot;tJjCVx _3DvUAf&quot;]/div[@class=&quot;XqNaEv&quot;]</value>
+      <webElementGuid>34fda383-9f3b-45ae-be81-582b6306fe0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='container']/div/div[3]/div[3]/div/div/section[9]/div[2]/div/div/div/label/div</value>
+      <webElementGuid>25e659a0-b3b7-4c18-80de-84680482b8e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section[9]/div[2]/div/div/div/label/div</value>
+      <webElementGuid>f25d2822-bb27-43ba-bfc4-66e150b4a518</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

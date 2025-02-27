@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_API Testing</name>
+   <tag></tag>
+   <elementGuidId>1905b7c2-fd9f-45db-b850-f780be0a10e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='katalon_header']/section[2]/div/div/div/div[2]/div[2]/div/div/div/div[2]/a[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;API Testing  Streamline your testing for any API architecture, and unify API, web, and mobile testing in one platform.&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>335fe3de-4bc5-4f92-a715-9592a1ad7d55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>content_title</value>
+      <webElementGuid>2311446a-0969-48c3-88c1-d82681fc4fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>API Testing</value>
+      <webElementGuid>f0e57e70-1451-4b51-8a71-e64b27a5438a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;katalon_header&quot;)/section[@class=&quot;rebrand_header undefined&quot;]/div[@class=&quot;wrap_container&quot;]/div[@class=&quot;left_logo_and_topnav&quot;]/div[@class=&quot;katalon_topnav&quot;]/div[@class=&quot;top_nav_item have_child_menu&quot;]/div[@class=&quot;top_nav_dropdown solutions&quot;]/div[@class=&quot;content_container&quot;]/div[@class=&quot;main_content&quot;]/div[@class=&quot;application_under_test&quot;]/div[@class=&quot;application_list&quot;]/a[@class=&quot;application_item&quot;]/div[@class=&quot;content_col&quot;]/div[@class=&quot;content_title&quot;]</value>
+      <webElementGuid>d27c2f2d-bc81-4ec0-8363-dd6ee1f82e06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='katalon_header']/section[2]/div/div/div/div[2]/div[2]/div/div/div/div[2]/a[2]/div/div</value>
+      <webElementGuid>9a3b6ba5-9617-456b-b95d-4d45ea555519</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quickly create your tests, debug with advanced tools, and execute across multiple browsers.'])[1]/following::div[2]</value>
+      <webElementGuid>4afc7122-b02f-465b-9831-85b8630483e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Web Testing'])[1]/following::div[3]</value>
+      <webElementGuid>71d0df03-7748-498a-8bf0-6e47474ec0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mobile Testing'])[1]/preceding::div[2]</value>
+      <webElementGuid>fe8b6a51-f1bf-4cdc-ac5e-e8e605a0d8f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Desktop Testing'])[1]/preceding::div[5]</value>
+      <webElementGuid>b72002e8-3de3-4752-859a-448ef9ffe0be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='API Testing']/parent::*</value>
+      <webElementGuid>2ac615f1-54b2-4593-adfc-505e330fcb54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/a[2]/div/div</value>
+      <webElementGuid>47093799-ca9e-4bb6-b237-5dcff74fd9ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'API Testing' or . = 'API Testing')]</value>
+      <webElementGuid>b3e4a088-992e-4ac4-bacf-315721151410</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
