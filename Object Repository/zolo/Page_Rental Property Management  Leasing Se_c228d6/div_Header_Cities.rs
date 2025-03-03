@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Header_Cities</name>
+   <tag></tag>
+   <elementGuidId>b4eb7c40-95ff-448e-85f4-d145f2a7b80f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.style__Container-sc-2dx0ls-0.cqNpJY</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>[data-testid=&quot;headerDesktopSearch&quot;] div >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f97a1888-60c5-42a5-a06a-3a5c80ad0d8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>100%</value>
+      <webElementGuid>0a788470-2721-4743-b5ba-b4a09d1b90ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style__Container-sc-2dx0ls-0 cqNpJY</value>
+      <webElementGuid>14da971c-9eef-4a55-b3dc-393bda6a5255</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Header_Cities</value>
+      <webElementGuid>eb7bf349-0e0a-46cc-aa8b-9330d24d163a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;Headerstyledesktop__Container-sc-yl1aqv-0 eoApsK&quot;]/div[@class=&quot;Headerstyledesktop__SearchArea-sc-yl1aqv-1 gGayzv&quot;]/div[@class=&quot;Headerstyledesktop__SearchCitySelector-sc-yl1aqv-2 gDlGyL&quot;]/div[@class=&quot;style__Container-sc-2dx0ls-0 cqNpJY&quot;]</value>
+      <webElementGuid>718307ac-4982-4cee-a6cc-b4a7c35900d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div/div/div</value>
+      <webElementGuid>611a2974-5b1c-4d68-8c70-550be5e3744b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ok'])[1]/following::div[4]</value>
+      <webElementGuid>8c0d5572-f8c0-4714-b7b3-bd618d2dc2fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/following::div[4]</value>
+      <webElementGuid>6703e01d-400c-4188-bd5e-68fa42205a62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Search..'])[1]/preceding::div[2]</value>
+      <webElementGuid>51b34bc5-9caa-4ad4-97d1-e7090c847e05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div</value>
+      <webElementGuid>e37f9903-517f-4308-8719-b8dd9d5ee57b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Header_Cities' or . = 'Header_Cities')]</value>
+      <webElementGuid>b0ae3cb0-ee16-4fe0-8f87-c86107b937d2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

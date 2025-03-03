@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Private_checkbox</name>
+   <tag></tag>
+   <elementGuidId>d0491607-9d43-49b0-8f41-2970adc7e008</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[4]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .checkbox >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b4d5d50b-8dec-4bbb-b9ed-9e3fce010565</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>feb86d89-0b8a-402b-a61f-a0387c5f437b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ListingViewmobile__ListingViewWrapper-sc-1tqy948-8 eTSVv&quot;]/div[@class=&quot;ListingBodystyledesktop__ParentBody-sc-1par68-0 gaxFNy&quot;]/div[@class=&quot;FilterMenustyle__FilterSelectWrapper-sc-akah3n-0 eXIsHs&quot;]/div[1]/div[@class=&quot;FilterSelectstyle__FilterWrapper-sc-5q7alj-0 jgSaY&quot;]/div[@class=&quot;FilterSelectstyle__FilterOptionsWrapper-sc-5q7alj-1 cVlsCV&quot;]/div[@class=&quot;FilterOptionstyle__FilterOptionWrapper-sc-f4aft7-0 ubeeW&quot;]/div[@class=&quot;checkbox&quot;]</value>
+      <webElementGuid>09306cdf-a66f-45b8-9ab6-69e87dacedfc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[4]/div[2]/div[2]/div</value>
+      <webElementGuid>c2ac7ac8-0f7f-442d-af53-0a32a8229eeb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/div</value>
+      <webElementGuid>13b26614-08d1-4f59-981d-7af10d572a31</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

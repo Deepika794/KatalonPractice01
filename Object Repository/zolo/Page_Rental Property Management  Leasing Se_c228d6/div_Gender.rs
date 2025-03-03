@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Gender</name>
+   <tag></tag>
+   <elementGuidId>ef558f84-8f0c-4706-b167-01f776ef7156</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10.iZWavC</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Gender$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>675feea5-3bb8-4727-8457-1af346f930f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cursor</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>b35fcd52-8244-4657-9bed-7ba73da5608a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 iZWavC</value>
+      <webElementGuid>f175f368-8520-436a-9778-fdaccb2add6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Gender</value>
+      <webElementGuid>b8b055a4-fe71-4fd2-9336-8483b1bfc358</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;SearchViewdesktop__Container-sc-agibtv-1 jvkOnc&quot;]/div[@class=&quot;AnimateItemstylecommon__SlideInAnimation-sc-g0wgo6-1 hrlPgV&quot;]/div[@class=&quot;SearchViewdesktop__Tab-sc-agibtv-2 jzGhXH in&quot;]/div[@class=&quot;SearchFiltersstyledesktop__Container-sc-rwkhep-0 dLdCKm&quot;]/div[@class=&quot;SearchFiltersstyledesktop__SearchBodyWrapper-sc-rwkhep-16 djoVSA&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCards-sc-rwkhep-8 jVhlxo&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapperWithMenu-sc-rwkhep-9 hnQtZP&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 iZWavC&quot;]</value>
+      <webElementGuid>a4432287-ed9b-4a53-bd52-0e93a38d9a04</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>711e0be2-89d3-461b-9b65-1f82a69ca93a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Student Only'])[1]/following::div[2]</value>
+      <webElementGuid>bad697a2-41a0-46ec-8f46-bf8001f79512</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW'])[1]/following::div[3]</value>
+      <webElementGuid>6d6c892d-e945-4a06-9a46-3ec2a276b6fa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joining Date'])[1]/preceding::div[2]</value>
+      <webElementGuid>df882269-e268-44c3-8ac2-5f499b93be7d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div[2]/div</value>
+      <webElementGuid>03f6ab50-225e-4754-a76e-0584b0a50c2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Gender' or . = 'Gender')]</value>
+      <webElementGuid>5e534402-e7c9-4730-8058-a6e8bb6f6511</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

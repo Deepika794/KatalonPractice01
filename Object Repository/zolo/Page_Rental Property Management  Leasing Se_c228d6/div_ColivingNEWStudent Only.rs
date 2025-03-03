@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ColivingNEWStudent Only</name>
+   <tag></tag>
+   <elementGuidId>2629d3d5-cd58-4e86-8e3f-db62a81c9f78</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10.lfVVCT</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;ColivingNEWStudent Only&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>937e9675-0382-4c8f-9832-db27fcae1442</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cursor</name>
+      <type>Main</type>
+      <value>unset</value>
+      <webElementGuid>2dab7f3e-67d1-45f1-a168-de82b601187e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 lfVVCT</value>
+      <webElementGuid>79759467-1b29-48f2-bb04-7c8a717884c6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ColivingNEWStudent Only</value>
+      <webElementGuid>e9218e4f-46f5-4bca-b5f4-525720af6586</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;SearchViewdesktop__Container-sc-agibtv-1 jvkOnc&quot;]/div[@class=&quot;AnimateItemstylecommon__SlideInAnimation-sc-g0wgo6-1 hrlPgV&quot;]/div[@class=&quot;SearchViewdesktop__Tab-sc-agibtv-2 jzGhXH in&quot;]/div[@class=&quot;SearchFiltersstyledesktop__Container-sc-rwkhep-0 dLdCKm&quot;]/div[@class=&quot;SearchFiltersstyledesktop__SearchBodyWrapper-sc-rwkhep-16 djoVSA&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCards-sc-rwkhep-8 jVhlxo&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapperWithMenu-sc-rwkhep-9 hnQtZP&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 lfVVCT&quot;]</value>
+      <webElementGuid>c04c8505-9e4f-4a7a-ba05-c4c45a4a9323</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>43279499-b0a7-4ef7-bf62-d6d893259360</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gurugram'])[2]/following::div[5]</value>
+      <webElementGuid>0448c1ce-4826-4988-af12-79e53d397765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mumbai'])[2]/following::div[6]</value>
+      <webElementGuid>cafe22a7-be92-4025-82c8-a46555268347</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/div[2]/div/div/div</value>
+      <webElementGuid>fd29a942-ac1c-4271-ac14-e92302e6d26b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'ColivingNEWStudent Only' or . = 'ColivingNEWStudent Only')]</value>
+      <webElementGuid>5acc1c14-3d0a-478e-be6f-25fb588a8d51</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

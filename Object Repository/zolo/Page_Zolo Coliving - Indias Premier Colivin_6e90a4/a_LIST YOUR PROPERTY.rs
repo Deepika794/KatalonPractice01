@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LIST YOUR PROPERTY</name>
+   <tag></tag>
+   <elementGuidId>420adeb5-4485-4166-ab1a-4f47e5c208e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.HomeNavButtons_style__ListLink-sc-18b8x4f-2.KPFPZ</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[3]/div/div[2]/a[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;LIST YOUR PROPERTY&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ae4f0497-6da4-4cde-97e8-8c7c5964cec9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/property-management-service</value>
+      <webElementGuid>a8105801-7b7c-4c6f-8bfc-cc3013566e85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>2a81af51-80ff-4071-8e2c-a4994ff80968</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>HomeNavButtons_style__ListLink-sc-18b8x4f-2 KPFPZ</value>
+      <webElementGuid>dbbbf007-ec06-4a0c-a366-7c2396d22ee1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>LIST YOUR PROPERTY</value>
+      <webElementGuid>a6598c39-0dd5-4905-9e56-4b367caa75b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;HomeViewdesktop__Container-sc-1llz785-29 fjeEdZ&quot;]/div[@class=&quot;HomeViewdesktop__HeaderWrapper-sc-1llz785-42 ezCWbJ&quot;]/div[@class=&quot;HomeNavButtons_style__NavButtonContainer-sc-18b8x4f-0 iiKEvr&quot;]/a[@class=&quot;HomeNavButtons_style__ListLink-sc-18b8x4f-2 KPFPZ&quot;]</value>
+      <webElementGuid>4c42fe6b-7fa7-4c54-97c8-b2ee9de08d97</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[3]/div/div[2]/a[2]</value>
+      <webElementGuid>1db10af3-a761-40ae-b76b-581c5599bbea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LIST YOUR PROPERTY')]</value>
+      <webElementGuid>24afaf0e-2be2-4f4a-b6d1-78caa4fe973b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ZOLO SCHOLAR'])[1]/following::a[1]</value>
+      <webElementGuid>4207a870-5cca-485c-83b1-0e7c389eba66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN'])[1]/following::a[2]</value>
+      <webElementGuid>18d2ae63-8985-4d43-a3c2-013bbc6fb07c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='info@zolostays.com'])[1]/preceding::a[2]</value>
+      <webElementGuid>6f47ed56-cca2-424a-a7fe-4c8499df2799</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SIGN IN'])[2]/preceding::a[3]</value>
+      <webElementGuid>592ced71-1f6d-43db-9fb1-6ddc887928b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LIST YOUR PROPERTY']/parent::*</value>
+      <webElementGuid>ae6458ea-82d0-4b24-b2c0-4e601a6a5480</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/property-management-service')]</value>
+      <webElementGuid>3c1f4b64-34c0-47df-a26a-49b05d1974af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]</value>
+      <webElementGuid>9ea75a78-778d-4ad8-a3bb-11f9f5ffea48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/property-management-service' and (text() = 'LIST YOUR PROPERTY' or . = 'LIST YOUR PROPERTY')]</value>
+      <webElementGuid>0bffe8a6-6479-47c0-ad67-347be705a14c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

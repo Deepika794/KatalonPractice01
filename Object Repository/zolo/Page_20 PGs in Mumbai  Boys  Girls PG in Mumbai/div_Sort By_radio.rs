@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Sort By_radio</name>
+   <tag></tag>
+   <elementGuidId>19cb6c00-f046-49ea-b0b3-860202ea47a4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.FilterSelectstyle__FilterWrapper-sc-5q7alj-0.jgSaY > div.FilterSelectstyle__FilterOptionsWrapper-sc-5q7alj-1.cVlsCV > div.FilterOptionstyle__FilterOptionWrapper-sc-f4aft7-0.ubeeW > div.radio</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(3) > .FilterSelectstyle__FilterOptionsWrapper-sc-5q7alj-1 > div > .radio >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a72cb1b1-d4a6-43a5-b9e5-d5341da5e8ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radio</value>
+      <webElementGuid>1eabdaef-94a3-4a0c-8103-acee75ef2da2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;ListingViewmobile__ListingViewWrapper-sc-1tqy948-8 eTSVv&quot;]/div[@class=&quot;ListingBodystyledesktop__ParentBody-sc-1par68-0 gaxFNy&quot;]/div[@class=&quot;FilterMenustyle__FilterSelectWrapper-sc-akah3n-0 eXIsHs&quot;]/div[1]/div[@class=&quot;FilterSelectstyle__FilterWrapper-sc-5q7alj-0 jgSaY&quot;]/div[@class=&quot;FilterSelectstyle__FilterOptionsWrapper-sc-5q7alj-1 cVlsCV&quot;]/div[@class=&quot;FilterOptionstyle__FilterOptionWrapper-sc-f4aft7-0 ubeeW&quot;]/div[@class=&quot;radio&quot;]</value>
+      <webElementGuid>cd30316c-a180-4b2e-b5f2-db7389d5aafb</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[2]/div[2]/div/div/div[3]/div[2]/div/div</value>
+      <webElementGuid>d7129aa0-29ef-49cf-9fa8-5c2e505ffe90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div/div</value>
+      <webElementGuid>a8071c11-0224-4a0d-aa01-e449508e4f09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

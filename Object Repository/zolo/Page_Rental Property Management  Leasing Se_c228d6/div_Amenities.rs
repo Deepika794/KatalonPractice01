@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Amenities</name>
+   <tag></tag>
+   <elementGuidId>cc6e7350-6f49-4c1e-b11c-d9c412a639e8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10.bAmXhe</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div[4]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^Amenities$/ >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0223096f-6b50-4dcc-8f4a-2471d0a66227</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>cursor</name>
+      <type>Main</type>
+      <value>pointer</value>
+      <webElementGuid>84164611-0d75-49e7-b08c-b6da3b3fbc9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 bAmXhe</value>
+      <webElementGuid>18e0355e-c7f5-4e1d-a681-23d04be5f3a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Amenities</value>
+      <webElementGuid>ea7dbd54-e952-4fac-9788-73b9c748d342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;SearchViewdesktop__Container-sc-agibtv-1 jvkOnc&quot;]/div[@class=&quot;AnimateItemstylecommon__SlideInAnimation-sc-g0wgo6-1 hrlPgV&quot;]/div[@class=&quot;SearchViewdesktop__Tab-sc-agibtv-2 jzGhXH in&quot;]/div[@class=&quot;SearchFiltersstyledesktop__Container-sc-rwkhep-0 dLdCKm&quot;]/div[@class=&quot;SearchFiltersstyledesktop__SearchBodyWrapper-sc-rwkhep-16 djoVSA&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCards-sc-rwkhep-8 jVhlxo&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapperWithMenu-sc-rwkhep-9 hnQtZP&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 bAmXhe&quot;]</value>
+      <webElementGuid>db6aba38-5980-46f1-b7f4-0edc43430744</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div[4]/div</value>
+      <webElementGuid>d0633c45-bf08-46fa-b58a-df6d1a8caed6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joining Date'])[1]/following::div[2]</value>
+      <webElementGuid>52e32a04-f5d0-47e2-a4ab-0a00532ec822</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Women'])[1]/following::div[5]</value>
+      <webElementGuid>62990627-2b09-4962-9216-17b1c871097c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Where would you like to stay?'])[1]/preceding::div[2]</value>
+      <webElementGuid>78fc3e67-c828-4f87-bf5c-cbb6c42ac775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div</value>
+      <webElementGuid>742f106f-13ce-491b-847b-6d7a196defd5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Amenities' or . = 'Amenities')]</value>
+      <webElementGuid>9e1c9e13-cf65-4d36-a960-093c38f81bb3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

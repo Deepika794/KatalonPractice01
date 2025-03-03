@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Coliving_FilterCardstyle__Circle-sc-l27_377999</name>
+   <tag></tag>
+   <elementGuidId>4c5be15f-f30b-4bbc-b762-72d47763623e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.FilterCardstyle__Circle-sc-l27nhm-2.goKkUb</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .FilterCardstyle__Circle-sc-l27nhm-2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3839b37e-cb5c-40ac-bfbd-4d67959bde0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>FilterCardstyle__Circle-sc-l27nhm-2 goKkUb</value>
+      <webElementGuid>7dbc8e8a-7087-4d16-bb76-a630d8f03cb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;SearchViewdesktop__Container-sc-agibtv-1 jvkOnc&quot;]/div[@class=&quot;AnimateItemstylecommon__SlideInAnimation-sc-g0wgo6-1 hrlPgV&quot;]/div[@class=&quot;SearchViewdesktop__Tab-sc-agibtv-2 jzGhXH in&quot;]/div[@class=&quot;SearchFiltersstyledesktop__Container-sc-rwkhep-0 dLdCKm&quot;]/div[@class=&quot;SearchFiltersstyledesktop__SearchBodyWrapper-sc-rwkhep-16 djoVSA&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCards-sc-rwkhep-8 jVhlxo&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapperWithMenu-sc-rwkhep-9 hnQtZP&quot;]/div[@class=&quot;SearchFiltersstyledesktop__FilterCardWrapper-sc-rwkhep-10 lfVVCT&quot;]/div[@class=&quot;FilterCardstyle__RadioAndText-sc-l27nhm-1 hnHGOI&quot;]/div[@class=&quot;FilterCardstyle__Circle-sc-l27nhm-2 goKkUb&quot;]</value>
+      <webElementGuid>dfc94afc-5bfe-4b15-b068-edce46598332</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/div/div[8]/div/div/div/div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>687132ef-da09-48c0-aebf-faf4f5eebf4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div[2]/div</value>
+      <webElementGuid>d2b72793-77f7-46db-a7f8-ce3f3b9de018</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
