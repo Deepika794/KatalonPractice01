@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>gurugram</name>
+   <name>tc08_divjobs</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e7f7e07e-9523-43ad-861a-f477cf5803ed</testSuiteGuid>
+   <testSuiteGuid>061c05d2-d088-4342-a523-e9dbad8a576b</testSuiteGuid>
    <testCaseLink>
-      <guid>f71bc010-171d-411b-9de9-2f0ecd404681</guid>
+      <guid>c814de43-4185-4789-bfa6-9788acbcec33</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Zolohomes/Tc05-Gurguram</testCaseId>
+      <testCaseId>Test Cases/GeeksforGeeks/tc08_jobs</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

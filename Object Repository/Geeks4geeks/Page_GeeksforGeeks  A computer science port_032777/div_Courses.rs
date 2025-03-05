@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Courses</name>
+   <tag></tag>
+   <elementGuidId>2f847a9e-000d-4a6e-a2b0-34b606802b87</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topMainHeader']/div/ul/li/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.genericHeaderListClass > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#topMainHeader >> internal:text=&quot;Courses&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>33fee421-d0a4-47d1-b3a2-b626ac81b602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Courses</value>
+      <webElementGuid>6fcede64-01ed-48c3-8ab9-e60cc78a8d47</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topMainHeader&quot;)/div[@class=&quot;headerContainer&quot;]/ul[@class=&quot;headerMainList&quot;]/li[@class=&quot;headerMainListItem activeNav&quot;]/span[@class=&quot;genericHeaderListClass&quot;]/div[1]</value>
+      <webElementGuid>01db8e27-ec7e-4b58-98a5-9ce676b55d8f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topMainHeader']/div/ul/li/span/div</value>
+      <webElementGuid>a05fefc1-7379-4711-8107-f405ec344a9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GfG Classroom Program'])[1]/preceding::div[2]</value>
+      <webElementGuid>38827ce4-855f-4c00-bd39-f49153b3f22f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DSA to Development'])[1]/preceding::div[2]</value>
+      <webElementGuid>115315ff-4bfe-4f05-911b-f355819a79a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Courses']/parent::*</value>
+      <webElementGuid>1cbb264f-78ea-47e7-93bf-4468588ffc07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div</value>
+      <webElementGuid>1d28ddab-945f-475d-83d4-a9e34678daf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Courses' or . = 'Courses')]</value>
+      <webElementGuid>9b501b30-f373-4887-8daf-ec89e0757f82</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

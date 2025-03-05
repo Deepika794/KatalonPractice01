@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Jobs</name>
+   <tag></tag>
+   <elementGuidId>1c83cbc6-3d1b-4d0e-aa12-35fe9f2baff7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topMainHeader']/div/ul/li[3]/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.headerMainListItem.activeNav > span.genericHeaderListClass > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Jobs&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0e54c3f9-7abf-4e01-b037-2be437a7eba8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jobs</value>
+      <webElementGuid>12c3b43e-ab33-47ce-aee9-443af9f8dbbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topMainHeader&quot;)/div[@class=&quot;headerContainer&quot;]/ul[@class=&quot;headerMainList&quot;]/li[@class=&quot;headerMainListItem activeNav&quot;]/span[@class=&quot;genericHeaderListClass&quot;]/div[1]</value>
+      <webElementGuid>92129a92-c2e5-4a53-9947-51e5cbfb6b69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topMainHeader']/div/ul/li[3]/span/div</value>
+      <webElementGuid>c14f8eb9-fc64-42bc-bd85-29b842aa1998</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tutorials'])[1]/following::div[1]</value>
+      <webElementGuid>def6c817-cb4f-4ed2-ad4e-5d8cb83518a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Courses'])[1]/following::div[3]</value>
+      <webElementGuid>89e3845c-f40b-4f19-a7b6-def2149efccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Hired: Apply for Jobs'])[1]/preceding::div[2]</value>
+      <webElementGuid>db17bfde-f55a-41ff-b2e3-1de7ccc06d81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Hiring Solutions'])[1]/preceding::div[2]</value>
+      <webElementGuid>a57e5cf7-b064-4e36-9f27-4cecc961bd29</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jobs']/parent::*</value>
+      <webElementGuid>f9c8c60f-7f1c-4543-81a2-3020d4da793a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/span/div</value>
+      <webElementGuid>f5e73bd6-f889-4a50-ba0a-524135d9f1ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Jobs' or . = 'Jobs')]</value>
+      <webElementGuid>2b9db292-7ee8-47c7-998a-7a9393a5e10f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

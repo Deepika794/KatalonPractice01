@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>gurugram</name>
+   <name>tc06_java</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e7f7e07e-9523-43ad-861a-f477cf5803ed</testSuiteGuid>
+   <testSuiteGuid>6b5f009d-9346-4466-870a-b8e098cb361e</testSuiteGuid>
    <testCaseLink>
-      <guid>f71bc010-171d-411b-9de9-2f0ecd404681</guid>
+      <guid>a694e4e5-61cf-4c99-b8fb-687a59e0722c</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Zolohomes/Tc05-Gurguram</testCaseId>
+      <testCaseId>Test Cases/GeeksforGeeks/tc06_java</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

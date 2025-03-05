@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_JS Operators_gfg-icon gfg-icon_arrow-d_4842af</name>
+   <tag></tag>
+   <elementGuidId>2e8ca1b4-8427-4a7c-a25f-73ded2fda489</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div[3]/h2/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;JS Operators&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>800b96d3-30f2-47d9-b9c3-5abdacc1d8e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gfg-icon gfg-icon_arrow-down-thin</value>
+      <webElementGuid>3269a077-8bc6-497f-9de7-8ff8d4e29ce9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-page&quot;)/div[@class=&quot;article-page_flex&quot;]/div[@class=&quot;sidebar_wrapper  manual_leftbar&quot;]/div[@class=&quot;sideBar sticky&quot;]/div[@class=&quot;sideBar--wrap newLeftbar&quot;]/ul[@class=&quot;leftBarList&quot;]/div[@class=&quot;second&quot;]/div[@class=&quot;leftbar-dropdown&quot;]/h2[@class=&quot;dropdown-title&quot;]/span[@class=&quot;gfg-icon gfg-icon_arrow-down-thin&quot;]</value>
+      <webElementGuid>0a2cf4ee-8f15-451b-9a8d-b01711479827</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div[3]/h2/span</value>
+      <webElementGuid>bd697ab4-5249-4e95-a083-f4e5da306811</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h2/span</value>
+      <webElementGuid>9d2aa48d-a46b-408a-93d4-d8e61440ee36</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Employer Branding</name>
+   <tag></tag>
+   <elementGuidId>1c517128-513f-4042-9ead-312b211e6b94</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topMainHeader']/div/ul/li[3]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Employer Branding&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4d843fc1-7d1a-49b4-8bb4-e6048ec0fda4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.geeksforgeeks.org/advertise-with-us/?ref=ghm</value>
+      <webElementGuid>55a48cf3-943f-48ff-a7e7-1a232c73c1b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inner_child</value>
+      <webElementGuid>6405559b-54ac-4721-b68b-ca178a5410bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Employer Branding</value>
+      <webElementGuid>60a04e69-1869-487b-8b4b-e079bd4a5c63</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topMainHeader&quot;)/div[@class=&quot;headerContainer&quot;]/ul[@class=&quot;headerMainList&quot;]/li[@class=&quot;headerMainListItem activeNav&quot;]/ul[@class=&quot;megaDropDown  class-0&quot;]/li[@class=&quot;megaDropDownListItem&quot;]/a[@class=&quot;inner_child&quot;]</value>
+      <webElementGuid>7f07f9bf-907a-4e6b-a40d-c134f336dd8c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topMainHeader']/div/ul/li[3]/ul/li[3]/a</value>
+      <webElementGuid>92a2504e-6f1a-4b5a-b808-cb2125964e09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Employer Branding')]</value>
+      <webElementGuid>2a305dee-8b61-44d3-855e-ef2163dd2dee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Corporate Hiring Solutions'])[1]/following::a[1]</value>
+      <webElementGuid>500dbf89-485f-48a8-afad-bb4e6149578e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get Hired: Apply for Jobs'])[1]/following::a[2]</value>
+      <webElementGuid>79623763-abc7-4200-ba46-5da1a350d150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Job Updates'])[1]/preceding::a[1]</value>
+      <webElementGuid>09b59364-1ed7-4d1a-9966-8f0c95c65329</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice'])[1]/preceding::a[2]</value>
+      <webElementGuid>2a53ac73-ed61-45ac-9bb1-ddfade009e11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Employer Branding']/parent::*</value>
+      <webElementGuid>0fa584c5-b6e6-4c30-a3c3-b5132441b53b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.geeksforgeeks.org/advertise-with-us/?ref=ghm')]</value>
+      <webElementGuid>4f803f81-d9a5-42a2-b5fd-a4e866e2de19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>320aa459-2348-45a5-8112-4e0482483b2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.geeksforgeeks.org/advertise-with-us/?ref=ghm' and (text() = 'Employer Branding' or . = 'Employer Branding')]</value>
+      <webElementGuid>bbc5f9a4-bb60-4d03-bea8-413b0f1d36d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

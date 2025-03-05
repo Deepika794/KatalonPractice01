@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_JavaScript Libraries</name>
+   <tag></tag>
+   <elementGuidId>bbfa78f6-6e4e-477a-9b7c-8145112e6e32</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div[3]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;JavaScript Libraries&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>1ed231a4-2258-48ba-a4e6-af4f0ef00427</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-title</value>
+      <webElementGuid>bd69996b-2832-4241-836d-a36720d0d887</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JavaScript Libraries</value>
+      <webElementGuid>6b6185fc-0d31-43c1-aa2f-a8064f2a56ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-page&quot;)/div[@class=&quot;article-page_flex&quot;]/div[@class=&quot;sidebar_wrapper  manual_leftbar&quot;]/div[@class=&quot;sideBar sticky&quot;]/div[@class=&quot;sideBar--wrap newLeftbar&quot;]/ul[@class=&quot;leftBarList&quot;]/div[@class=&quot;second&quot;]/div[@class=&quot;leftbar-dropdown&quot;]/h2[@class=&quot;dropdown-title&quot;]</value>
+      <webElementGuid>14a46d9b-be48-4f5e-8e2f-97c822153a0b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div[3]/h2</value>
+      <webElementGuid>765fa609-ff8b-405a-b0fa-e8de96d77800</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='JavaScript Tutorial'])[1]/following::h2[1]</value>
+      <webElementGuid>5849ae7c-b1ca-4ce3-9696-84973b98d3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='LESS'])[1]/following::h2[1]</value>
+      <webElementGuid>754abddd-ba62-4dfd-90c9-1930ce344859</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lodash'])[2]/preceding::h2[1]</value>
+      <webElementGuid>8e1e227a-2135-4651-86b0-1c79f295c422</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='D3.js'])[2]/preceding::h2[1]</value>
+      <webElementGuid>b454a22e-7bb7-4362-a1b0-4593124309ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='JavaScript Libraries']/parent::*</value>
+      <webElementGuid>7bd2a969-3103-45ee-954b-7d7906546a57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/h2</value>
+      <webElementGuid>a077812b-1601-42e0-a7d6-feb4efec3e04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'JavaScript Libraries' or . = 'JavaScript Libraries')]</value>
+      <webElementGuid>3dfe8cf1-9cae-46fe-9d97-b10bd303a1cd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

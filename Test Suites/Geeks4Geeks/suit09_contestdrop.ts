@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>gurugram</name>
+   <name>suit09_contestdrop</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e7f7e07e-9523-43ad-861a-f477cf5803ed</testSuiteGuid>
+   <testSuiteGuid>28394a93-120c-49f4-b6ca-abb227472bc2</testSuiteGuid>
    <testCaseLink>
-      <guid>f71bc010-171d-411b-9de9-2f0ecd404681</guid>
+      <guid>6642d321-32ec-4504-bae0-c6d3b7c78d6f</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Zolohomes/Tc05-Gurguram</testCaseId>
+      <testCaseId>Test Cases/GeeksforGeeks/tc09_contestdrop</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_All Contests and Events</name>
+   <tag></tag>
+   <elementGuidId>d8f73d24-24d9-43c8-8cfe-4108365622b8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topMainHeader']/div/ul/li[5]/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;All Contests and Events&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>04f79cae-590b-426a-b1ae-4d6d6054daea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://practice.geeksforgeeks.org/events?itm_source=geeksforgeeks&amp;itm_medium=main_header&amp;itm_campaign=contests</value>
+      <webElementGuid>020298da-0dba-4e64-b74b-1074e2639602</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>inner_child</value>
+      <webElementGuid>5c4f8abd-d808-4acf-b7ac-79d853296099</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>All Contests and Events</value>
+      <webElementGuid>613adeee-3ec7-438f-9211-271d7b676252</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topMainHeader&quot;)/div[@class=&quot;headerContainer&quot;]/ul[@class=&quot;headerMainList&quot;]/li[@class=&quot;headerMainListItem activeNav&quot;]/ul[@class=&quot;megaDropDown  class-0&quot;]/li[@class=&quot;megaDropDownListItem&quot;]/a[@class=&quot;inner_child&quot;]</value>
+      <webElementGuid>5e627d13-3dd5-461d-8b64-0384e66205ac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topMainHeader']/div/ul/li[5]/ul/li[3]/a</value>
+      <webElementGuid>b1d15be4-dd1f-491d-81fc-9f37c9101dfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'All Contests and Events')]</value>
+      <webElementGuid>b35f6572-0f90-4cc7-9b79-5ddbf4ee9b67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job-A-Thon Hiring Challenge'])[1]/following::a[1]</value>
+      <webElementGuid>f24e02d3-0b5a-4a62-9d4f-79d4d847a038</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GfG Weekly [Rated Contest]'])[1]/following::a[2]</value>
+      <webElementGuid>279827bb-668d-4d69-80c8-202a12451d36</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign In'])[1]/preceding::a[1]</value>
+      <webElementGuid>7bdf7e24-6ce8-4beb-80ac-3d983953bd04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Switch to Dark Mode'])[1]/preceding::a[1]</value>
+      <webElementGuid>5eba0369-d3ef-40da-8827-63fc61c46268</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='All Contests and Events']/parent::*</value>
+      <webElementGuid>cbfdf306-0963-4d4c-ad3f-7d3a0aa8016c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://practice.geeksforgeeks.org/events?itm_source=geeksforgeeks&amp;itm_medium=main_header&amp;itm_campaign=contests')]</value>
+      <webElementGuid>a72fb218-3858-4431-8ad7-78585dd3d525</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>268d3a56-772d-46a1-b6e5-e52a9b24fdbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://practice.geeksforgeeks.org/events?itm_source=geeksforgeeks&amp;itm_medium=main_header&amp;itm_campaign=contests' and (text() = 'All Contests and Events' or . = 'All Contests and Events')]</value>
+      <webElementGuid>493c7167-a9af-4232-b2fc-f7202c2dc3f4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

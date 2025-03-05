@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Know more</name>
+   <tag></tag>
+   <elementGuidId>dc5c590c-1325-401c-8b6c-55c5173472a3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='comp']/div[2]/div[2]/div/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.knowMore_head__121Hi</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.knowMore_head__121Hi >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>0a7ec112-6d77-4c44-b2dd-f707a985cb06</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>knowMore_head__121Hi</value>
+      <webElementGuid>e179ad4a-09f8-48a5-9e36-519e6c3afbb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Know more</value>
+      <webElementGuid>103e293d-06be-44de-96fa-963aa7e7f400</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;data-mode&quot;)/div[@id=&quot;comp&quot;]/div[@class=&quot;advertise-with-us_head__skUPZ&quot;]/div[@class=&quot;whyUs_head__XXBII&quot;]/div[@class=&quot;whyUs_head_main__GMhVt&quot;]/div[@class=&quot;whyUs_head_main_left__R3JdF&quot;]/div[@class=&quot;whyUs_head_main_left_knowMoreContainer___AMLA&quot;]/div[@class=&quot;knowMore_head__121Hi&quot;]</value>
+      <webElementGuid>1b76216b-7764-4161-bd54-ed09bc4006ae</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='comp']/div[2]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>c7a8eb4c-ab55-439e-b341-1a0c39a26cef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get the results that matter'])[1]/following::div[2]</value>
+      <webElementGuid>73e67044-a8d5-47a7-9349-742334998000</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Why Us'])[1]/following::div[3]</value>
+      <webElementGuid>a2760554-969d-4b29-be1d-7b1647f022c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build brand awareness'])[1]/preceding::div[2]</value>
+      <webElementGuid>0992543f-29e4-4a97-8eb4-7a6174714fa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/div[2]/div</value>
+      <webElementGuid>efd62749-c6d2-43d0-ab02-61ff500d25ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Know more' or . = 'Know more')]</value>
+      <webElementGuid>0b185c60-94a4-4110-9022-a33cf7b1b1a9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

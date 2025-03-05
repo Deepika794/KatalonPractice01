@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>gurugram</name>
+   <name>Gk01python</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>e7f7e07e-9523-43ad-861a-f477cf5803ed</testSuiteGuid>
+   <testSuiteGuid>c1089b39-f7dd-4d71-8461-6891a0b202bd</testSuiteGuid>
    <testCaseLink>
-      <guid>f71bc010-171d-411b-9de9-2f0ecd404681</guid>
+      <guid>1f6e8aa8-96e3-4251-afd6-079273d870ae</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Zolohomes/Tc05-Gurguram</testCaseId>
+      <testCaseId>Test Cases/GeeksforGeeks/TC01_G4g</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

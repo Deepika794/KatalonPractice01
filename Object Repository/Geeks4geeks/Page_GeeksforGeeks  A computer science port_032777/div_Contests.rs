@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Contests</name>
+   <tag></tag>
+   <elementGuidId>81651f48-d494-486b-824b-a80a0f1c2548</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='topMainHeader']/div/ul/li[5]/span/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.headerMainListItem.activeNav > span.genericHeaderListClass > div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Contests&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>28682918-8414-4d1e-9c19-dfad642dd210</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Contests</value>
+      <webElementGuid>fc4f600b-85e0-4ba3-ac60-48752e1770fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;topMainHeader&quot;)/div[@class=&quot;headerContainer&quot;]/ul[@class=&quot;headerMainList&quot;]/li[@class=&quot;headerMainListItem activeNav&quot;]/span[@class=&quot;genericHeaderListClass&quot;]/div[1]</value>
+      <webElementGuid>7d63ffb8-4f30-41da-8bd8-bf98f265286f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='topMainHeader']/div/ul/li[5]/span/div</value>
+      <webElementGuid>abea4389-2741-4fdc-8f8f-a8f1835b49be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Practice'])[1]/following::div[1]</value>
+      <webElementGuid>915a1ec1-b973-42ea-bb3a-97f59165db64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jobs'])[1]/following::div[3]</value>
+      <webElementGuid>41040bc9-70e0-40c3-bd14-87188505c87d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GfG Weekly [Rated Contest]'])[1]/preceding::div[2]</value>
+      <webElementGuid>107eddc3-1cf0-4564-8c97-92c52f1c04cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job-A-Thon Hiring Challenge'])[1]/preceding::div[2]</value>
+      <webElementGuid>9f6960c9-44c0-418a-8ef6-d20b5e4fbff9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Contests']/parent::*</value>
+      <webElementGuid>c2f2c3ed-c7a8-4530-837a-c9d419ed04d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[5]/span/div</value>
+      <webElementGuid>6ba5aafb-001d-4675-8c4e-ec796682c695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Contests' or . = 'Contests')]</value>
+      <webElementGuid>aa82737b-e921-4449-a03f-a26ebc851afb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

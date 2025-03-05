@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h2_Django view</name>
+   <tag></tag>
+   <elementGuidId>4777a51d-8f34-439d-b43a-8d6262bac95f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div[2]/h2</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Django view&quot;s]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>a0c07653-3b8f-4708-a904-55c4cca26243</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dropdown-title</value>
+      <webElementGuid>8085273b-b272-439b-abf7-b0f3ada6535a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Django view</value>
+      <webElementGuid>36c0b8c1-e14d-40ac-84a8-4e5bdddb2405</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-page&quot;)/div[@class=&quot;article-page_flex&quot;]/div[@class=&quot;sidebar_wrapper  manual_leftbar&quot;]/div[@class=&quot;sideBar sticky&quot;]/div[@class=&quot;sideBar--wrap newLeftbar&quot;]/ul[@class=&quot;leftBarList&quot;]/div[@class=&quot;second&quot;]/div[@class=&quot;leftbar-dropdown&quot;]/h2[@class=&quot;dropdown-title&quot;]</value>
+      <webElementGuid>16fd0f91-10f0-4e0d-a15d-6f9d9c6f6690</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div[2]/h2</value>
+      <webElementGuid>a9a129a4-77e3-4c51-ba45-3f4026b04698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Django settings file - step by step Explanation'])[1]/following::h2[1]</value>
+      <webElementGuid>3e13ac36-32bf-49d1-9fca-45c1bc427547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='How to Create an App in Django ?'])[1]/following::h2[1]</value>
+      <webElementGuid>3b7f477e-227f-4ca1-907a-1dec7edc5215</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Views In Django | Python'])[1]/preceding::h2[1]</value>
+      <webElementGuid>fc3b3ea3-dcbc-4fd0-8346-50927cf20e88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Django Function Based Views'])[1]/preceding::h2[1]</value>
+      <webElementGuid>e8219f60-029b-4fca-9abd-41ce09a239e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Django view']/parent::*</value>
+      <webElementGuid>53426e35-0f27-47b3-b3e2-b88d43a702dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/h2</value>
+      <webElementGuid>1075fea9-909a-4f23-9707-f33f1e1be5f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Django view' or . = 'Django view')]</value>
+      <webElementGuid>55559600-ea0e-4e4c-a55a-8d3c4ca6d858</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

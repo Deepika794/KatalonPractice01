@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Python Basics_gfg-icon gfg-icon_arrow-_3512cf</name>
+   <tag></tag>
+   <elementGuidId>35564ca7-c3bc-47b6-8c09-f2e5542701a9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div/h2/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.gfg-icon.gfg-icon_arrow-down-thin</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Python Basics&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ff130eb1-32de-43bb-983e-804e63c9161b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>gfg-icon gfg-icon_arrow-down-thin</value>
+      <webElementGuid>0b205e4e-ad7c-4bd6-8bc2-ba563a6559da</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;home-page&quot;)/div[@class=&quot;article-page_flex&quot;]/div[@class=&quot;sidebar_wrapper  manual_leftbar&quot;]/div[@class=&quot;sideBar sticky&quot;]/div[@class=&quot;sideBar--wrap newLeftbar&quot;]/ul[@class=&quot;leftBarList&quot;]/div[@class=&quot;second&quot;]/div[@class=&quot;leftbar-dropdown&quot;]/h2[@class=&quot;dropdown-title&quot;]/span[@class=&quot;gfg-icon gfg-icon_arrow-down-thin&quot;]</value>
+      <webElementGuid>2e7e61af-4575-4a11-b711-d494af62994e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='home-page']/div/div/div/div/ul/div[2]/div/h2/span</value>
+      <webElementGuid>3b0b6fbd-a51c-46b2-8abe-86eb4bae22b6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2/span</value>
+      <webElementGuid>f61013bf-7ce5-4fab-a9c3-032da03b7c5a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
